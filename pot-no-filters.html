@@ -65,8 +65,6 @@
         </div>
     </div>
 
-    <script src="pot-grow-facilities.js"></script>
-
     <!-- MAP -->
     <div class="row">
         <div class="large-12 medium-12 small-12 columns">
@@ -82,34 +80,32 @@
 
     <!-- LEAFLET SCRIPT -->
     <script>
-        L.mapbox.accessToken = 'pk.eyJ1Ijoia2hhbW0tZGVudmVycG9zdCIsImEiOiJjaWZoMThvYWxhcHZtc3htN25sZWhnNGkzIn0.xPsTe8f7I19lj2xCFQ1Ciw';
-        // Here we don't use the second argument to map, since that would automatically
-        // load in non-clustered markers from the layer. Instead we add just the
-        // backing tileLayer, and then use the featureLayer only for its data.
-        var map = L.mapbox.map('map')
-            .setView([39, -105.5], 7)
-            .addLayer(L.mapbox.tileLayer('mapbox.streets'));
+  // ADD YOUR BASE TILES
+  var baseLayer = L.tileLayer('http://a.tiles.mapbox.com/v3/landplanner.map-4y9ngu48/{z}/{x}/{y}.png', {
+    maxZoom: 18
+  });
+  // DEFINE THE CLUSTER LAYER
+  var markers = L.markerClusterGroup();
 
-            // Disable drag and zoom handlers
-            //map.dragging.disable();
-            //map.touchZoom.disable();
-            //map.doubleClickZoom.disable();
-            //map.scrollWheelZoom.disable();
+  // CALL THE GEOJSON HERE
+  $.getJSON("pot-grow-facilities.js", function(data) {
+    var geojson = L.geoJson(data, {
+      onEachFeature: function (feature, layer) {
+        // USE A CUSTOM MARKER
+        // layer.setIcon(L.mapbox.marker.icon({'marker-symbol': 'circle-stroked', 'marker-color': '59245f'}));
 
-        var markers = new L.MarkerClusterGroup();
+        // ADD A POPUP WITH A CHART
+        layer.bindPopup("<h1>" + feature.properties.licenseeName + "</h1>");
 
-    for (var i = 0; i < licenseeName.length; i++) {
-        var a = addressPoints[i];
-        var title = a[2];
-        var marker = L.marker(new L.LatLng(a[0], a[1]), {
-            icon: L.mapbox.marker.icon({'marker-symbol': 'post'}),
-            title: title
-        });
-        marker.bindPopup(title);
-        markers.addLayer(marker);
-    }
+      }
+    });
+    markers.addLayer(geojson);
 
-    map.addLayer(markers);
-    </script>
+    // CONSTRUCT THE MAP
+    var map = L.map('map', {maxZoom: 9}).fitBounds(markers.getBounds());
+    baseLayer.addTo(map);
+    markers.addTo(map);
+  });
+  </script>
 </body>
 </html>
