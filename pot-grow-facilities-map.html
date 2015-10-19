@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- META -->
+    <meta charset=utf-8 />
+    <title>Where to Watch College Football Around Denver | The Denver Post</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link rel="canonical" href="http://extras.denverpost.com/maps/news/college-football/" />
+    <link rel="shortcut icon" href="http://extras.mnginteractive.com/live/media/favIcon/dpo/favicon.ico" type="image/x-icon" />
+    <meta name="distribution" content="global" />
+    <meta name="robots" content="index, nofollow" />
+    <meta name="title" content="Where to Watch College Football Around Denver" />
+    <meta name="language" content="en, sv" />
+    <meta name="Copyright" content="Copyright &copy; The Denver Post." />
+    <link rel="author" href="humans.txt" />
+    <meta name="description" content="A map of bars and restaurants where people watch their favorite college football teams.">
+    <meta name="news_keywords" content="football, cu, buffs, csu, rams, college, game, watch, bars, restaurants, Denver, Colorado">
+    <meta name="twitter:card" value="summary" />
+    <meta name="twitter:url" value="http://extras.denverpost.com/maps/news/college-football/" />
+    <meta name="twitter:title" value="Where to Watch College Football Around Denver" />
+    <meta name="twitter:description" value="A map of bars and restaurants where people watch their favorite college football teams." />
+    <meta name="twitter:image" value="http://extras.denverpost.com/maps/news/college-football/images/cu-csu.jpg" />
+    <meta name="twitter:site" value="@denverpost" />
+    <meta name="twitter:domain" value="denverpost.com" />
+    <meta name="twitter:creator" content="@denverpost">
+    <meta name="twitter:app:name:iphone" value="Denver Post">
+    <meta name="twitter:app:name:ipad" value="Denver Post">
+    <meta name="twitter:app:name:googleplay" value="The Denver Post">
+    <meta name="twitter:app:id:iphone" value="id375264133">
+    <meta name="twitter:app:id:ipad" value="id409389010">
+    <meta name="twitter:app:id:googleplay" value="com.ap.denverpost" />
+    <meta property="fb:app_id" content="105517551922" />
+    <meta property="og:title" content="Where to Watch College Football Around Denver" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://extras.denverpost.com/maps/news/college-football/" />
+    <meta property="og:image" content="http://extras.denverpost.com/maps/news/college-football/images/cu-csu.jpg" />
+    <meta property="og:site_name" content="The Denver Post" />
+    <meta property="og:description" content="A map of bars and restaurants where people watch their favorite college football teams." />
+    <meta property="article:publisher" content="https://www.facebook.com/denverpost" />
+    <meta name="google-site-verification" content="2bKNvyyGh6DUlOvH1PYsmKN4KRlb-0ZI7TvFtuKLeAc" />
+
+    <!-- STYLE SHEETS -->
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet' />
+    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+    <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+    <link rel="stylesheet" href="http://extras.denverpost.com/foundation/css/foundation.css" />
+    <link rel="stylesheet" href="http://extras.denverpost.com/foundation/css/normalize.css" />
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link rel="shortcut icon" href="http://extras.mnginteractive.com/live/media/favIcon/dpo/favicon.ico" type="image/x-icon" />
+
+    <!-- SCRIPTS -->
+    <script src="http://extras.denverpost.com/foundation/js/vendor/jquery.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js'></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+    <script src="http://extras.denverpost.com/foundation/js/vendor/modernizr.js"></script>
+    <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+</head>
+
+<body>
+    <!-- TITLE AND INTRO -->
+    <div class="row">
+        <div class="large-12 medium-12 small-12 columns">
+            <h1 style="font-size: 32px">Marijuana grow facilities in Colorado</h1>
+            <p>The map shows locations of marijuana cultivation facilities in Colorado. Click on the button to filter the locations by</p>
+        </div>
+    </div>
+
+    <!-- TEAM FILTER DESKTOP -->
+    <div class="row" id="desktop">
+        <div class="large-12 medium-12 small-12 columns">
+            <form id='optype'>
+            <div id="legend-container">
+                <div class="legend" id="">
+                    <label>
+                        <input type='radio' name='filters' onclick='showOperation();' value='Medical' checked> Medical
+                    </label>
+                </div>
+                <div class="legend" id="">
+                    <label>
+                        <input type='radio' name='filters' onclick='showOperation();' value='Retail' > Retail
+                    </label>
+                </div>
+                <div class="legend" id="">
+                    <label>
+                        <input type='radio' name='filters' onclick='showOperation();' value='Both' > Both
+                    </label>
+                </div>
+            </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- MAP -->
+    <div class="row">
+        <div class="large-12 medium-12 small-12 columns">
+            <div id='map'></div>
+        </div>
+    </div>
+
+     <div class="row">
+        <div class="large-12 medium-12 small-12 columns">
+            <p><em>Click a team to show where people watch the game (number in parenthesis next to team name indicates number of different locations listed; zoom the map out to see all locations). Click map marker for more information (if a location received more than one vote for a particular team it&rsquo;s noted in parenthesis). Click the + sign to see a team&rsquo;s schedule, results and stats.</em></p>
+        </div>
+    </div>
+
+    <!-- LEAFLET SCRIPT -->
+    <script>
+        L.mapbox.accessToken = 'pk.eyJ1Ijoia2hhbW0tZGVudmVycG9zdCIsImEiOiJjaWZoMThvYWxhcHZtc3htN25sZWhnNGkzIn0.xPsTe8f7I19lj2xCFQ1Ciw';
+        // Here we don't use the second argument to map, since that would automatically
+        // load in non-clustered markers from the layer. Instead we add just the
+        // backing tileLayer, and then use the featureLayer only for its data.
+        var map = L.mapbox.map('map')
+            .setView([39, -105.5], 7)
+            .addLayer(L.mapbox.tileLayer('mapbox.streets'));
+
+            // Disable drag and zoom handlers
+            //map.dragging.disable();
+            //map.touchZoom.disable();
+            //map.doubleClickZoom.disable();
+            //map.scrollWheelZoom.disable();
+
+        var overlays = L.layerGroup().addTo(map);
+
+        // we create the 'layers' variable outside of the on('ready' callback
+        // so that it can be accessible in the showStations function. Otherwise,
+        // JavaScript scope would prevent you from accessing it.
+        var layers;
+
+        // Since featureLayer is an asynchronous method, we use the `.on('ready'`
+        // call to only use its marker data once we know it is actually loaded.
+        L.mapbox.featureLayer()
+            .loadURL('pot-grow-facilities.js')
+            .on('ready', function(e) {
+                layers = e.target;
+                console.log(e);
+                showOperation();
+            });
+        var filters = document.getElementById('optype').filters;
+        /* $(document).ready(function () {
+            if (is_mobile == 'YES') {
+            $("#desktop").remove();
+                filters = document.getElementById('teams-mobile').filters;
+            } else {
+                filters = document.getElementById('teams-desktop').filters;
+                }
+        }); */
+
+        /* $(document).ready(function () {
+            var width = $(window).width();
+            if (width < 600) {
+                $("#desktop").remove();
+                filters = document.getElementById('teams-mobile').filters;
+            } else {
+                filters = document.getElementById('teams-desktop').filters;
+            }
+        }); */
+
+        // There are many ways to filter data. Mapbox.js has the .setFilter method,
+        // but it only applies to L.mapbox.featureLayer layers, and that isn't what
+        // we're creating - we're making marker groups in a MarkerClusterGroup layer.
+        // Thus we distill filtering down to its essential part: an 'if' statement
+        // in a loop.
+        function showOperation() {
+            // first collect all of the checked boxes and create an array of strings
+            // like ['green', 'blue']
+            var list = [];
+            for (var i = 0; i < filters.length; i++) {
+                if (filters[i].checked) list.push(filters[i].value);
+            }
+            // then remove any previously-displayed marker groups
+            overlays.clearLayers();
+            // create a new marker group
+            var clusterGroup = new L.MarkerClusterGroup().addTo(overlays);
+            // and add any markers that fit the filtered criteria to that group.
+            layers.eachLayer(function(layer) {
+                if (list.indexOf(layer.feature.properties.operation) !== -1) {
+                    layer.bindPopup('<strong>' + layer.feature.properties.licenseeName + '</strong>');
+                    clusterGroup.addLayer(layer);
+                }
+            });
+        }
+    </script>
+</body>
+</html>
