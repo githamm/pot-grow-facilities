@@ -9,12 +9,12 @@
     },
     "properties": {
     "licenseeName":"THE GIVING TREE OF DENVER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00284",
     "streetAddress":"1255 South Huron Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -31,7 +31,7 @@
     "streetAddress":"110 Yuma Street, Unit 4",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -48,7 +48,7 @@
     "streetAddress":"173 Oil Court",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -60,12 +60,12 @@
     },
     "properties": {
     "licenseeName":"GREEN CROSS COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01287",
     "streetAddress":"2181 10th Street South",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -82,7 +82,7 @@
     "streetAddress":"2187 10th Street South",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -94,12 +94,12 @@
     },
     "properties": {
     "licenseeName":"SWEET LEAF PIONEER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00912",
     "streetAddress":"0245 Marmot Lane, #5",
     "city":"Eagle",
     "zip":81631,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -116,7 +116,7 @@
     "streetAddress":"24530 Highway 82",
     "city":"Basalt",
     "zip":81621,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -133,7 +133,7 @@
     "streetAddress":"41394 US Highway 6, Units F1 & F2",
     "city":"Avon",
     "zip":81620,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -150,7 +150,7 @@
     "streetAddress":"041290 Highway 6, Unit B5",
     "city":"Avon",
     "zip":81620,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -162,12 +162,12 @@
     },
     "properties": {
     "licenseeName":"GREEN ESSENTIALS MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01450",
     "streetAddress":"1420 Devereux Road",
     "city":"Glenwood Springs",
     "zip":81601,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -179,12 +179,12 @@
     },
     "properties": {
     "licenseeName":"ALPINE WELLNESS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00159",
     "streetAddress":"765 Vance Drive",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -201,7 +201,7 @@
     "streetAddress":"761 Vance Drive",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -218,7 +218,7 @@
     "streetAddress":"385 North Willow",
     "city":"Mancos",
     "zip":81328,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -235,7 +235,7 @@
     "streetAddress":"26044 Highway 550 North",
     "city":"Durango",
     "zip":81303,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -247,12 +247,12 @@
     },
     "properties": {
     "licenseeName":"GREEN STREET DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00362",
     "streetAddress":"29420 Highway 160 East, Unit B",
     "city":"Durango",
     "zip":81303,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -269,7 +269,7 @@
     "streetAddress":"2694 County Road 222",
     "city":"Durango",
     "zip":81303,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -286,7 +286,7 @@
     "streetAddress":"17505 County Road 52",
     "city":"Saguache",
     "zip":81149,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -303,7 +303,7 @@
     "streetAddress":"137 Cedar Street",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -320,7 +320,7 @@
     "streetAddress":"2600 Freedom Road",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -337,7 +337,7 @@
     "streetAddress":"422 North Commercial Street",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -349,12 +349,12 @@
     },
     "properties": {
     "licenseeName":"TRINIDADS HIGHER CALLING U LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01563",
     "streetAddress":"1000 Independence Road",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -366,12 +366,12 @@
     },
     "properties": {
     "licenseeName":"NUVUE PHARMA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01656",
     "streetAddress":"413 Eagleridge Boulevard",
     "city":"Pueblo",
     "zip":81008,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -388,7 +388,7 @@
     "streetAddress":"893 East Enterprise Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -400,12 +400,12 @@
     },
     "properties": {
     "licenseeName":"HERITAGE ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00092",
     "streetAddress":"84 North Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -422,7 +422,7 @@
     "streetAddress":"73 North Research Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -439,7 +439,7 @@
     "streetAddress":"129 East Enterprise Drive",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -451,12 +451,12 @@
     },
     "properties": {
     "licenseeName":"THE ORGANIC SEED LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01422",
     "streetAddress":"41 North Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -473,7 +473,7 @@
     "streetAddress":"1917 Santa Fe Drive",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -485,12 +485,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO BEST BUDZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01540",
     "streetAddress":"23344 Highway 50 East, Unit B",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -502,12 +502,12 @@
     },
     "properties": {
     "licenseeName":"GREEN ACRES EMPORIUM LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01517",
     "streetAddress":"6033 Highway 78 West",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -524,7 +524,7 @@
     "streetAddress":"107 Main Avenue",
     "city":"Sedgwick",
     "zip":80749,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -541,7 +541,7 @@
     "streetAddress":"130 Maine Street, Unit C",
     "city":"Log Lane Village",
     "zip":80705,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -558,7 +558,7 @@
     "streetAddress":"2515 7th Avenue",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -570,12 +570,12 @@
     },
     "properties": {
     "licenseeName":"XG PLATINUM CORPORATION",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00837",
     "streetAddress":"422 26th Street",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -592,7 +592,7 @@
     "streetAddress":"1225 Blue Spruce Drive, Units H-J",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -609,7 +609,7 @@
     "streetAddress":"337 Hickory Street",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -626,7 +626,7 @@
     "streetAddress":"1225 Blue Spruce Drive, Unit C",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -643,7 +643,7 @@
     "streetAddress":"191 Blue River Parkway",
     "city":"Silverthorne",
     "zip":80498,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -660,7 +660,7 @@
     "streetAddress":"2815 Downhill Plaza, Unit 401",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -677,7 +677,7 @@
     "streetAddress":"72399 US Highway 40, Unit C",
     "city":"Tabernash",
     "zip":80478,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -694,7 +694,7 @@
     "streetAddress":"228 Arthur Avenue",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -711,7 +711,7 @@
     "streetAddress":"37671 Highway 9",
     "city":"Fairplay",
     "zip":80440,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -723,12 +723,12 @@
     },
     "properties": {
     "licenseeName":"SERENE WELLNESS FRASER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01266",
     "streetAddress":"13 East Park Avenue",
     "city":"Empire",
     "zip":80438,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -740,12 +740,12 @@
     },
     "properties": {
     "licenseeName":"ALPENGLOW BOTANICALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00093",
     "streetAddress":"1805 Airport Road, #B1C & B1B",
     "city":"Breckenridge",
     "zip":80424,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -757,12 +757,12 @@
     },
     "properties": {
     "licenseeName":"SUNRISE SOLUTIONS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00856",
     "streetAddress":"43 Main Street",
     "city":"Bailey",
     "zip":80421,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -779,7 +779,7 @@
     "streetAddress":"4727 North Broadway, Unit G",
     "city":"Boulder",
     "zip":80304,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -791,12 +791,12 @@
     },
     "properties": {
     "licenseeName":"THE GROWING KITCHEN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00398",
     "streetAddress":"8401 Baseline Road",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -813,7 +813,7 @@
     "streetAddress":"2510 47th Street, Unit G",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -830,7 +830,7 @@
     "streetAddress":"6390 Gunpark Drive, Unit B",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -847,7 +847,7 @@
     "streetAddress":"11100 East 51st Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -859,12 +859,12 @@
     },
     "properties": {
     "licenseeName":"APOTHECARY OF COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00473",
     "streetAddress":"10625 East 51st Avenue, Unit 103",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -881,7 +881,7 @@
     "streetAddress":"5353 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -893,12 +893,12 @@
     },
     "properties": {
     "licenseeName":"BK HOLDINGS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01484",
     "streetAddress":"12001 East 37th Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -910,12 +910,12 @@
     },
     "properties": {
     "licenseeName":"BK HOLDINGS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01485",
     "streetAddress":"12005 East 37th Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -932,7 +932,7 @@
     "streetAddress":"5475 Peoria Street, Building 1, Unit 112",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -944,12 +944,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO FARMS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00017",
     "streetAddress":"11975 East 40th Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -961,12 +961,12 @@
     },
     "properties": {
     "licenseeName":"KIND LOVE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00038",
     "streetAddress":"4890 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -983,7 +983,7 @@
     "streetAddress":"4990 Oakland Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1000,7 +1000,7 @@
     "streetAddress":"4825 Oakland Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1017,7 +1017,7 @@
     "streetAddress":"4675 Kingston Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1034,7 +1034,7 @@
     "streetAddress":"11101 East 51st Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1051,7 +1051,7 @@
     "streetAddress":"10625 East 51st Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1068,7 +1068,7 @@
     "streetAddress":"4525 Ironton Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1080,12 +1080,12 @@
     },
     "properties": {
     "licenseeName":"BOTANACARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01277",
     "streetAddress":"11450 Cherokee Street, Units A1, A2, A3, A4, A5, A6, A7",
     "city":"Northglenn",
     "zip":80234,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1102,7 +1102,7 @@
     "streetAddress":"2100 East 112th Avenue, Suite 5",
     "city":"Northglenn",
     "zip":80233,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1114,12 +1114,12 @@
     },
     "properties": {
     "licenseeName":"TETRAHYDROCENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00663",
     "streetAddress":"9206 East Hampden Avenue",
     "city":"Denver",
     "zip":80231,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1136,7 +1136,7 @@
     "streetAddress":"1205 West Evans Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1148,12 +1148,12 @@
     },
     "properties": {
     "licenseeName":"ADVANCED MEDICAL ALTERNATIVES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00978",
     "streetAddress":"2252 South Kalamath Street, Unit B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1165,12 +1165,12 @@
     },
     "properties": {
     "licenseeName":"ADVANCED MEDICAL ALTERNATIVES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01535",
     "streetAddress":"400 South Lipan Street, Unit 23",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1182,12 +1182,12 @@
     },
     "properties": {
     "licenseeName":"ADVANCED MEDICAL ALTERNATIVES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00977",
     "streetAddress":"790 West Evans",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1199,12 +1199,12 @@
     },
     "properties": {
     "licenseeName":"ALTERNATIVE MEDICINE ON CAPITOL HILL",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00023",
     "streetAddress":"231 Wyandot Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1216,12 +1216,12 @@
     },
     "properties": {
     "licenseeName":"AT HOME REMEDIES INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00289",
     "streetAddress":"1055 South Fox Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1233,12 +1233,12 @@
     },
     "properties": {
     "licenseeName":"CANNABIS FOR HEALTH LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00207",
     "streetAddress":"155 South Pecos Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1255,7 +1255,7 @@
     "streetAddress":"1975 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1272,7 +1272,7 @@
     "streetAddress":"2219 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1284,12 +1284,12 @@
     },
     "properties": {
     "licenseeName":"DISCOUNT MEDICAL MARIJUANA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00393",
     "streetAddress":"395 Yuma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1306,7 +1306,7 @@
     "streetAddress":"1395 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1323,7 +1323,7 @@
     "streetAddress":"2323 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1340,7 +1340,7 @@
     "streetAddress":"1344 West Cedar Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1357,7 +1357,7 @@
     "streetAddress":"1332 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1374,7 +1374,7 @@
     "streetAddress":"1178 South Kalamath Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1391,7 +1391,7 @@
     "streetAddress":"2675 South Santa Fe Drive, Units 6C, 6D, 6E, 6F, 6G & 6H",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1403,12 +1403,12 @@
     },
     "properties": {
     "licenseeName":"IVITA WELLNESS II LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00962",
     "streetAddress":"2150 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1425,7 +1425,7 @@
     "streetAddress":"1135 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1437,12 +1437,12 @@
     },
     "properties": {
     "licenseeName":"KAZIMER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00682",
     "streetAddress":"1233 West Alameda Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1454,12 +1454,12 @@
     },
     "properties": {
     "licenseeName":"KEENS GREENS EDIBLES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01468",
     "streetAddress":"1015 West Evans Avenue, Unit EB",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1471,12 +1471,12 @@
     },
     "properties": {
     "licenseeName":"KIND LOVE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00035",
     "streetAddress":"2116 South Kalamath Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1493,7 +1493,7 @@
     "streetAddress":"1308 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1510,7 +1510,7 @@
     "streetAddress":"1255 West Virginia Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1522,12 +1522,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH GREEN CROSS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01125",
     "streetAddress":"1015 West Evans Avenue, Unit A/B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1544,7 +1544,7 @@
     "streetAddress":"1885 West Dartmouth Avenue, Units 6 & 8",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1556,12 +1556,12 @@
     },
     "properties": {
     "licenseeName":"NATURES BEST LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00008",
     "streetAddress":"1240 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1578,7 +1578,7 @@
     "streetAddress":"1342 West Cedar Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1590,12 +1590,12 @@
     },
     "properties": {
     "licenseeName":"RINO SUPPLY CO INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01201",
     "streetAddress":"2200 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1612,7 +1612,7 @@
     "streetAddress":"870 Navajo Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1629,7 +1629,7 @@
     "streetAddress":"860 Navajo Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1641,12 +1641,12 @@
     },
     "properties": {
     "licenseeName":"THE HERBAL CURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00034",
     "streetAddress":"2209 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1663,7 +1663,7 @@
     "streetAddress":"1397 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1680,7 +1680,7 @@
     "streetAddress":"2130 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1697,7 +1697,7 @@
     "streetAddress":"5885 East Evans Avenue",
     "city":"Denver",
     "zip":80222,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1709,12 +1709,12 @@
     },
     "properties": {
     "licenseeName":"MAHATMA GANGA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01206",
     "streetAddress":"1045 West 45th Avenue",
     "city":"Denver",
     "zip":80221,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1731,7 +1731,7 @@
     "streetAddress":"890 Navajo Street",
     "city":"Denver",
     "zip":80220,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1743,12 +1743,12 @@
     },
     "properties": {
     "licenseeName":"CAREGIVERS FOR LIFE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00450",
     "streetAddress":"2744 West 4th Avenue, Unit 100",
     "city":"Denver",
     "zip":80219,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1760,12 +1760,12 @@
     },
     "properties": {
     "licenseeName":"ADVANCED MEDICAL ALTERNATIVES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00980",
     "streetAddress":"501 West 40th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1782,7 +1782,7 @@
     "streetAddress":"4571 North Ivy Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1799,7 +1799,7 @@
     "streetAddress":"3615 Delgany Street, Unit A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1816,7 +1816,7 @@
     "streetAddress":"4360 Vine Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1833,7 +1833,7 @@
     "streetAddress":"4414 Vine Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1845,12 +1845,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO CARE FACILITY INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00149",
     "streetAddress":"4980 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1867,7 +1867,7 @@
     "streetAddress":"4935 York Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1879,12 +1879,12 @@
     },
     "properties": {
     "licenseeName":"DENCO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00281",
     "streetAddress":"5155 East 46th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1896,12 +1896,12 @@
     },
     "properties": {
     "licenseeName":"DENVER DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01262",
     "streetAddress":"4975 Vasquez Boulevard",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1918,7 +1918,7 @@
     "streetAddress":"3895 East 45th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1935,7 +1935,7 @@
     "streetAddress":"5051 East 41st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1947,12 +1947,12 @@
     },
     "properties": {
     "licenseeName":"DISCOUNT MEDICAL MARIJUANA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00392",
     "streetAddress":"3730 East 44th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1969,7 +1969,7 @@
     "streetAddress":"4228 York Street, Unit 103, 106 & 107",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -1986,7 +1986,7 @@
     "streetAddress":"5923 Broadway",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2003,7 +2003,7 @@
     "streetAddress":"4773 Fox Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2020,7 +2020,7 @@
     "streetAddress":"5077 North Colorado Boulevard",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2037,7 +2037,7 @@
     "streetAddress":"4905 East 41st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2049,12 +2049,12 @@
     },
     "properties": {
     "licenseeName":"PATIENTS PLUS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00140",
     "streetAddress":"505 Bryant Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2066,12 +2066,12 @@
     },
     "properties": {
     "licenseeName":"PREFERRED ORGANIC THERAPY & WELLNESS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00979",
     "streetAddress":"4850 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2083,12 +2083,12 @@
     },
     "properties": {
     "licenseeName":"THE GREEN SOLUTION LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01381",
     "streetAddress":"5305 Steele Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2105,7 +2105,7 @@
     "streetAddress":"4550 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2122,7 +2122,7 @@
     "streetAddress":"4501 Wynkoop Street #101",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2134,12 +2134,12 @@
     },
     "properties": {
     "licenseeName":"UNIVERSAL HERBS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00395",
     "streetAddress":"5959 East 39th Avenue, Unit 102",
     "city":"Denver",
     "zip":80216,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2151,12 +2151,12 @@
     },
     "properties": {
     "licenseeName":"BACK TO THE GARDEN HEALTH & WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00865",
     "streetAddress":"4500 Jason Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2173,7 +2173,7 @@
     "streetAddress":"4105 Jason Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2185,12 +2185,12 @@
     },
     "properties": {
     "licenseeName":"PLATTE VALLEY DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00875",
     "streetAddress":"3104 Blake Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2202,12 +2202,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO WELLNESS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01170",
     "streetAddress":"2057 South Broadway",
     "city":"Denver",
     "zip":80210,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2219,12 +2219,12 @@
     },
     "properties": {
     "licenseeName":"GANJA GOURMET LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00987",
     "streetAddress":"1955 South Bannock Street",
     "city":"Denver",
     "zip":80210,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2241,7 +2241,7 @@
     "streetAddress":"2568 South Broadway",
     "city":"Denver",
     "zip":80210,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2258,7 +2258,7 @@
     "streetAddress":"432 South Broadway",
     "city":"Denver",
     "zip":80209,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2270,12 +2270,12 @@
     },
     "properties": {
     "licenseeName":"THE HERBAL CURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00747",
     "streetAddress":"985 South Logan Street",
     "city":"Denver",
     "zip":80209,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2292,7 +2292,7 @@
     "streetAddress":"5775 East 39th Avenue",
     "city":"Denver",
     "zip":80207,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2309,7 +2309,7 @@
     "streetAddress":"3950 Holly Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2326,7 +2326,7 @@
     "streetAddress":"5959 East 39th Avenue, Unit 101",
     "city":"Denver",
     "zip":80207,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2343,7 +2343,7 @@
     "streetAddress":"3857 Elm Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2360,7 +2360,7 @@
     "streetAddress":"7200 East Smith Road",
     "city":"Denver",
     "zip":80207,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2377,7 +2377,7 @@
     "streetAddress":"2609 Walnut Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2394,7 +2394,7 @@
     "streetAddress":"1660 East 40th Avenue",
     "city":"Denver",
     "zip":80205,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2411,7 +2411,7 @@
     "streetAddress":"1660 East 40th Avenue, Unit A",
     "city":"Denver",
     "zip":80205,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2428,7 +2428,7 @@
     "streetAddress":"3980 Franklin Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2440,12 +2440,12 @@
     },
     "properties": {
     "licenseeName":"MMD OF COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00286",
     "streetAddress":"3954 Williams Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2457,12 +2457,12 @@
     },
     "properties": {
     "licenseeName":"A CUT OFF THE TOP MEDICAL MARIJUANA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00128",
     "streetAddress":"2059 West 9th Avenue",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2474,12 +2474,12 @@
     },
     "properties": {
     "licenseeName":"BUSHES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01106",
     "streetAddress":"2650 West 6th Avenue",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2496,7 +2496,7 @@
     "streetAddress":"788 Vallejo Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2513,7 +2513,7 @@
     "streetAddress":"2731 West Short Place",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2530,7 +2530,7 @@
     "streetAddress":"658 Kalamath Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2547,7 +2547,7 @@
     "streetAddress":"1235 Umatilla Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2564,7 +2564,7 @@
     "streetAddress":"1617 West 12th Avenue",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2581,7 +2581,7 @@
     "streetAddress":"1619 West 12th Avenue",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2593,12 +2593,12 @@
     },
     "properties": {
     "licenseeName":"TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00421",
     "streetAddress":"665 Kalamath Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2615,7 +2615,7 @@
     "streetAddress":"1100 Yuma Court",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2627,12 +2627,12 @@
     },
     "properties": {
     "licenseeName":"XG PLATINUM CORPORATION",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01572",
     "streetAddress":"525 Bryant Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2649,7 +2649,7 @@
     "streetAddress":"70 Broadway, Suite 50",
     "city":"Denver",
     "zip":80203,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2666,7 +2666,7 @@
     "streetAddress":"1617 Wazee Street, Unit B",
     "city":"Denver",
     "zip":80202,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2683,7 +2683,7 @@
     "streetAddress":"9135 West 44th Avenue",
     "city":"Wheat Ridge",
     "zip":80033,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2700,7 +2700,7 @@
     "streetAddress":"1224 Commerce Court, Unit 3",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Both",
+    "operation":"MEDICAL + RETAIL",
     "marker-color":"#17c170"
     }
   },
@@ -2717,7 +2717,7 @@
     "streetAddress":"3010 Airport Road",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2729,12 +2729,12 @@
     },
     "properties": {
     "licenseeName":"GREEN NATURAL SOLUTIONS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01249",
     "streetAddress":"4501 Silt Mesa Road",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2751,7 +2751,7 @@
     "streetAddress":"0208 County Road 227",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2768,7 +2768,7 @@
     "streetAddress":"38150 River Frontage Road, Unit 3D",
     "city":"New Castle",
     "zip":81647,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2780,12 +2780,12 @@
     },
     "properties": {
     "licenseeName":"NEW HOPE WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00231",
     "streetAddress":"210 Edwards Village Boulevard, Unit B-210",
     "city":"Edwards",
     "zip":81632,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2802,7 +2802,7 @@
     "streetAddress":"615 Buggy Circle Unit D",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2819,7 +2819,7 @@
     "streetAddress":"1676 CR 100 Unit N-2",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2836,7 +2836,7 @@
     "streetAddress":"11556 Hwy 133",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2853,7 +2853,7 @@
     "streetAddress":"0178 Medicine Bow Road",
     "city":"Aspen",
     "zip":81611,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2865,12 +2865,12 @@
     },
     "properties": {
     "licenseeName":"GREEN NATURAL SOLUTIONS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00382",
     "streetAddress":"3 Seven Oaks Road",
     "city":"Glenwood Springs",
     "zip":81601,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2887,7 +2887,7 @@
     "streetAddress":"125 Peach Avenue, Unit B",
     "city":"Palisade",
     "zip":81526,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2899,12 +2899,12 @@
     },
     "properties": {
     "licenseeName":"DELILAH LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01433",
     "streetAddress":"753 Vance Drive",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2921,7 +2921,7 @@
     "streetAddress":"711E South Park Road",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2933,12 +2933,12 @@
     },
     "properties": {
     "licenseeName":"ACME DISPENSARY INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00762",
     "streetAddress":"22327 Highway 550 Lot B",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2950,12 +2950,12 @@
     },
     "properties": {
     "licenseeName":"ACME HEALING CENTER OF RIDGWAY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01278",
     "streetAddress":"22327 Highway 550, Lot B",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2972,7 +2972,7 @@
     "streetAddress":"22327 US Highway 550 Lot B",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -2984,12 +2984,12 @@
     },
     "properties": {
     "licenseeName":"GREEN MEADOWS DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00727",
     "streetAddress":"23360 South Highway 550",
     "city":"Montrose",
     "zip":81403,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3006,7 +3006,7 @@
     "streetAddress":"4860 North Townsend Avenue",
     "city":"Montrose",
     "zip":81401,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3023,7 +3023,7 @@
     "streetAddress":"1531 N Lebanon Rd",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3040,7 +3040,7 @@
     "streetAddress":"1104 East Main Street",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3057,7 +3057,7 @@
     "streetAddress":"1740 East Main Street",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3069,12 +3069,12 @@
     },
     "properties": {
     "licenseeName":"THE MEDICINE MAN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00604",
     "streetAddress":"310 East Main Street",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3091,7 +3091,7 @@
     "streetAddress":"12929 Highway 550 South",
     "city":"Durango",
     "zip":81303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3103,12 +3103,12 @@
     },
     "properties": {
     "licenseeName":"DURANGO ORGANICS LLP",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00786",
     "streetAddress":"12929 South US Highway 550",
     "city":"Durango",
     "zip":81301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3125,7 +3125,7 @@
     "streetAddress":"789 Tech Center Drive, Unit E",
     "city":"Durango",
     "zip":81301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3142,7 +3142,7 @@
     "streetAddress":"890 7th Street",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3154,12 +3154,12 @@
     },
     "properties": {
     "licenseeName":"ALTERNATIVE MEDICAL REMEDIES",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00134",
     "streetAddress":"1450 L Street",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3176,7 +3176,7 @@
     "streetAddress":"685 Highway 115, Unit B",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3188,12 +3188,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH GREEN CROSS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01285",
     "streetAddress":"685 Highway 115, Unit A",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3205,12 +3205,12 @@
     },
     "properties": {
     "licenseeName":"PURE MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01338",
     "streetAddress":"440 8th Street",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3227,7 +3227,7 @@
     "streetAddress":"708 Fremont Street",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3244,7 +3244,7 @@
     "streetAddress":"934 C Street",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3261,7 +3261,7 @@
     "streetAddress":"1015 Highway 115",
     "city":"Penrose",
     "zip":81240,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3273,12 +3273,12 @@
     },
     "properties": {
     "licenseeName":"HIGH MOUNTAIN MEDZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01391",
     "streetAddress":"3000 County Road 103",
     "city":"Florence",
     "zip":81226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3290,12 +3290,12 @@
     },
     "properties": {
     "licenseeName":"MAGGIES FARM LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01153",
     "streetAddress":"4211 County Road 84",
     "city":"Florence",
     "zip":81226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3312,7 +3312,7 @@
     "streetAddress":"4211 Fremont County Road 84",
     "city":"Florence",
     "zip":81226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3324,12 +3324,12 @@
     },
     "properties": {
     "licenseeName":"THE ORGANIC SEED LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01452",
     "streetAddress":"1785 Kit Carson Trail",
     "city":"Cotopaxi",
     "zip":81223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3346,7 +3346,7 @@
     "streetAddress":"204 East Main Street",
     "city":"Buena Vista",
     "zip":81211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3354,7 +3354,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.066067,39.390897 ]
+       "coordinates":  [ -106.222810,38.809568 ]
     },
     "properties": {
     "licenseeName":"JMC ENTERPRISES INC",
@@ -3363,7 +3363,7 @@
     "streetAddress":"19256 County Road 343, Unit D",
     "city":"Buena Vista",
     "zip":81211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3380,7 +3380,7 @@
     "streetAddress":"7706 County Road 150",
     "city":"Salida",
     "zip":81201,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3397,7 +3397,7 @@
     "streetAddress":"7800 County Road 152",
     "city":"Salida",
     "zip":81201,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3414,7 +3414,7 @@
     "streetAddress":"23320 County Road K-5",
     "city":"San Luis",
     "zip":81152,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3426,12 +3426,12 @@
     },
     "properties": {
     "licenseeName":"LA CASA CANNABIS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00172",
     "streetAddress":"23320 County Road K.5",
     "city":"San Luis",
     "zip":81152,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3448,7 +3448,7 @@
     "streetAddress":"600 Cloman Boulevard, Units 5, 6,7, 8",
     "city":"Pagosa Springs",
     "zip":81147,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3465,7 +3465,7 @@
     "streetAddress":"298 Bastille Drive, Units A7 & 9",
     "city":"Pagosa Springs",
     "zip":81147,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3477,12 +3477,12 @@
     },
     "properties": {
     "licenseeName":"FROST HARVEST CO INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00705",
     "streetAddress":"County Road 17, Highway 160",
     "city":"Fort Garland",
     "zip":81133,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3499,7 +3499,7 @@
     "streetAddress":"63510 East Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3516,7 +3516,7 @@
     "streetAddress":"9000 South Interstate 25",
     "city":"Colorado City",
     "zip":81019,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3533,7 +3533,7 @@
     "streetAddress":"748 East Industrial Blvd.",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3550,7 +3550,7 @@
     "streetAddress":"38 N. Silicon Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3562,12 +3562,12 @@
     },
     "properties": {
     "licenseeName":"FIPG LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01632",
     "streetAddress":"67 North Silicon Drive, Suites 130,140, 150",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3584,7 +3584,7 @@
     "streetAddress":"920 East Spaulding Avenue",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3596,12 +3596,12 @@
     },
     "properties": {
     "licenseeName":"HERITAGE ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01640",
     "streetAddress":"78 North Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3618,7 +3618,7 @@
     "streetAddress":"74 North Component Drive, Suite 170",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3630,12 +3630,12 @@
     },
     "properties": {
     "licenseeName":"ORGANIC SOLUTIONS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01096",
     "streetAddress":"152 East Industrial Boulevard",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3647,12 +3647,12 @@
     },
     "properties": {
     "licenseeName":"PUEBLO WEST ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01298",
     "streetAddress":"56 North Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3664,12 +3664,12 @@
     },
     "properties": {
     "licenseeName":"PUEBLO WEST ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01420",
     "streetAddress":"609 East Enterprise Drive, Units 120, 130 & 140",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3686,7 +3686,7 @@
     "streetAddress":"83 North Magento Drive",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3698,12 +3698,12 @@
     },
     "properties": {
     "licenseeName":"TODAYS HEALTH CARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01442",
     "streetAddress":"286 South Purcell Boulevard",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3720,7 +3720,7 @@
     "streetAddress":"74 North Component Drive, #160",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3737,7 +3737,7 @@
     "streetAddress":"1650 Siloam Road",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3754,7 +3754,7 @@
     "streetAddress":"1805 Santa Fe Drive, Suites F & G",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3771,7 +3771,7 @@
     "streetAddress":"2298 East State Highway 96",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3788,7 +3788,7 @@
     "streetAddress":"30899 Highway 50 East",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3805,7 +3805,7 @@
     "streetAddress":"1400 Santa Fe Drive, Suite A & B",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3822,7 +3822,7 @@
     "streetAddress":"7415 Rex Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3839,7 +3839,7 @@
     "streetAddress":"Lakeview Prairie, Lot 4",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3856,7 +3856,7 @@
     "streetAddress":"2630 W. Pueblo Blvd., Suite C-D&E",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3868,12 +3868,12 @@
     },
     "properties": {
     "licenseeName":"SEVEN-ONE-NINE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01598",
     "streetAddress":"2729 Farabaugh Lane",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3885,12 +3885,12 @@
     },
     "properties": {
     "licenseeName":"GARDEN GREENS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01628",
     "streetAddress":"4116 Nature Center Road",
     "city":"Pueblo",
     "zip":81003,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3902,12 +3902,12 @@
     },
     "properties": {
     "licenseeName":"MARISOL THERAPEUTICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00254",
     "streetAddress":"2204 Hickory Street",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3924,7 +3924,7 @@
     "streetAddress":"3410 Astrozon Court",
     "city":"Colorado Springs",
     "zip":80937,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3941,7 +3941,7 @@
     "streetAddress":"8270 Razorback Road",
     "city":"Colorado Springs",
     "zip":80920,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3958,7 +3958,7 @@
     "streetAddress":"5905 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80918,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3970,12 +3970,12 @@
     },
     "properties": {
     "licenseeName":"BRIARGATE WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00176",
     "streetAddress":"890 Dublin Boulevard, Suite C",
     "city":"Colorado Springs",
     "zip":80918,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -3987,12 +3987,12 @@
     },
     "properties": {
     "licenseeName":"THIRD DAY APOTHECARY MC LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00210",
     "streetAddress":"4865 North Academy Blvd., Unit B",
     "city":"Colorado Springs",
     "zip":80918,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4009,7 +4009,7 @@
     "streetAddress":"3995 North Academy Boulevard",
     "city":"Colorado Springs",
     "zip":80917,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4026,7 +4026,7 @@
     "streetAddress":"3425 Van Teylingen Drive, Units D&E",
     "city":"Colorado Springs",
     "zip":80917,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4038,12 +4038,12 @@
     },
     "properties": {
     "licenseeName":"CYS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01345",
     "streetAddress":"1675 Jetwing Drive",
     "city":"Colorado Springs",
     "zip":80916,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4055,12 +4055,12 @@
     },
     "properties": {
     "licenseeName":"CANNA MEDS WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00407",
     "streetAddress":"4349 East Platte Avenue",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4077,7 +4077,7 @@
     "streetAddress":"1466 Woolsey Heights",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4094,7 +4094,7 @@
     "streetAddress":"2153-2155 Victor Place",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4111,7 +4111,7 @@
     "streetAddress":"2306 North Powers Boulevard, #100",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4123,12 +4123,12 @@
     },
     "properties": {
     "licenseeName":"DR RELEAF INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01571",
     "streetAddress":"815 Wooten Road",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4140,12 +4140,12 @@
     },
     "properties": {
     "licenseeName":"HAPPY BUDDHA WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01164",
     "streetAddress":"1419 Woolsey Heights",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4162,7 +4162,7 @@
     "streetAddress":"817 Wooten Road",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4179,7 +4179,7 @@
     "streetAddress":"1460 Woolsey Heights",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4196,7 +4196,7 @@
     "streetAddress":"1453 Woolsey Heights",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4213,7 +4213,7 @@
     "streetAddress":"2815 North El Paso Street Units A, C & D",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4225,12 +4225,12 @@
     },
     "properties": {
     "licenseeName":"TODAYS HEALTH CARE II LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00433",
     "streetAddress":"6345 East Platte Avenue",
     "city":"Colorado Springs",
     "zip":80915,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4247,7 +4247,7 @@
     "streetAddress":"2565 Weston Road, Unit 136",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4264,7 +4264,7 @@
     "streetAddress":"3758 #B Astrozon Boulevard",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4281,7 +4281,7 @@
     "streetAddress":"2517 Airport Road, Unit B,",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4298,7 +4298,7 @@
     "streetAddress":"1752 Shasta Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4310,12 +4310,12 @@
     },
     "properties": {
     "licenseeName":"DISCREET TREATS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01280",
     "streetAddress":"288 South Academy Boulevard, Suite C",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4332,7 +4332,7 @@
     "streetAddress":"2565 Weston Road Units 128 Collective",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4349,7 +4349,7 @@
     "streetAddress":"288 South Academy Boulevard, Unit C",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4366,7 +4366,7 @@
     "streetAddress":"715 South Circle Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4383,7 +4383,7 @@
     "streetAddress":"17-19 Iowa Avenue",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4395,12 +4395,12 @@
     },
     "properties": {
     "licenseeName":"JP LABS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01526",
     "streetAddress":"288 South Academy, Suite B",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4412,12 +4412,12 @@
     },
     "properties": {
     "licenseeName":"JP WELLNESS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01209",
     "streetAddress":"296 South Academy Boulevard, Suite L",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4434,7 +4434,7 @@
     "streetAddress":"2517 Durango Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4451,7 +4451,7 @@
     "streetAddress":"2685 Durango Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4463,12 +4463,12 @@
     },
     "properties": {
     "licenseeName":"ROCKY ROAD REMEDIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00444",
     "streetAddress":"2575 Weston Road",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4485,7 +4485,7 @@
     "streetAddress":"2611 Durango Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4502,7 +4502,7 @@
     "streetAddress":"2516 Weston Road",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4519,7 +4519,7 @@
     "streetAddress":"2848 Delta Drive",
     "city":"Colorado Springs",
     "zip":80910,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4536,7 +4536,7 @@
     "streetAddress":"3228 East Platte Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4553,7 +4553,7 @@
     "streetAddress":"2545 & 2547 East Platte Place",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4565,12 +4565,12 @@
     },
     "properties": {
     "licenseeName":"BIJOU WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00839",
     "streetAddress":"2132 East Bijou Street, Suites 110, 111, 119 & 124",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4582,12 +4582,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO WHOLESALE DISTRIBUTION LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01467",
     "streetAddress":"2211 East Boulder Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4604,7 +4604,7 @@
     "streetAddress":"2639 East Willamette Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4616,12 +4616,12 @@
     },
     "properties": {
     "licenseeName":"EAST WEST ALTERNATIVE MEDICINE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00754",
     "streetAddress":"1905 North Academy Boulevard, Suite 100",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4633,12 +4633,12 @@
     },
     "properties": {
     "licenseeName":"ELEVATED EXTRACTIONS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01479",
     "streetAddress":"325 Delaware Drive",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4655,7 +4655,7 @@
     "streetAddress":"3475 Pine Tree Square, Suite E",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4672,7 +4672,7 @@
     "streetAddress":"700 Juanita Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4684,12 +4684,12 @@
     },
     "properties": {
     "licenseeName":"GOLDEN BARN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01449",
     "streetAddress":"3601 East Platte Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4706,7 +4706,7 @@
     "streetAddress":"335 North Circle Drive, Suite 101 & 201",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4723,7 +4723,7 @@
     "streetAddress":"335 North Circle Drive, Unit 201 & 101",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4740,7 +4740,7 @@
     "streetAddress":"1785 North Academy Boulevard, #165",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4757,7 +4757,7 @@
     "streetAddress":"1785 North Academy Blvd., Unit 160",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4769,12 +4769,12 @@
     },
     "properties": {
     "licenseeName":"KIND THERAPEUTICS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00616",
     "streetAddress":"4058 Palmer Park Boulevard",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4786,12 +4786,12 @@
     },
     "properties": {
     "licenseeName":"MYLAR GROUP LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00530",
     "streetAddress":"2430 Platte Place",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4803,12 +4803,12 @@
     },
     "properties": {
     "licenseeName":"ORIGINAL CANNABIS GROWERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00133",
     "streetAddress":"2625 East Street Vrain, Units A, B, C & D",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4820,12 +4820,12 @@
     },
     "properties": {
     "licenseeName":"PAIN MANAGEMENT SOLUTIONS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01472",
     "streetAddress":"2222 East Boulder Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4837,12 +4837,12 @@
     },
     "properties": {
     "licenseeName":"QUALITY CHOICE ALTERNATIVE CARE CENTER",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01541",
     "streetAddress":"2390 East Boulder Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4859,7 +4859,7 @@
     "streetAddress":"2398 East Boulder Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4871,12 +4871,12 @@
     },
     "properties": {
     "licenseeName":"ROCKY MOUNTAIN MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01005",
     "streetAddress":"616 Arrawanna Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4888,12 +4888,12 @@
     },
     "properties": {
     "licenseeName":"ROCKY MOUNTAIN MIRACLES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00316",
     "streetAddress":"2316 East Bijou Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4910,7 +4910,7 @@
     "streetAddress":"2509 Platte Place, Suite A",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4922,12 +4922,12 @@
     },
     "properties": {
     "licenseeName":"STAINED GLASS INCORPORATED",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01624",
     "streetAddress":"123 North Union Boulevard",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4944,7 +4944,7 @@
     "streetAddress":"1785 North Academy Boulevard, Unit 100",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4956,12 +4956,12 @@
     },
     "properties": {
     "licenseeName":"THE HEALING CANNA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00867",
     "streetAddress":"319 Iowa Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4973,12 +4973,12 @@
     },
     "properties": {
     "licenseeName":"THE HEALING CANNA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00866",
     "streetAddress":"3692 East Bijou Street",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -4995,7 +4995,7 @@
     "streetAddress":"2304 East Platte Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5012,7 +5012,7 @@
     "streetAddress":"2599 East Willamette Avenue",
     "city":"Colorado Springs",
     "zip":80909,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5029,7 +5029,7 @@
     "streetAddress":"1202 East Fillmore Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5041,12 +5041,12 @@
     },
     "properties": {
     "licenseeName":"AMERICAN WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01230",
     "streetAddress":"3895 North Cascade Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5063,7 +5063,7 @@
     "streetAddress":"905 East Fillmore Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5075,12 +5075,12 @@
     },
     "properties": {
     "licenseeName":"BEST BUDZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01583",
     "streetAddress":"3850 North Nevada",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5097,7 +5097,7 @@
     "streetAddress":"2909 North El Paso Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5114,7 +5114,7 @@
     "streetAddress":"2809 North Prospect Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5131,7 +5131,7 @@
     "streetAddress":"3512 North Tejon Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5148,7 +5148,7 @@
     "streetAddress":"3170 North Stone Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5165,7 +5165,7 @@
     "streetAddress":"3745 Interpark Drive",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5182,7 +5182,7 @@
     "streetAddress":"34 Buchanan Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5194,12 +5194,12 @@
     },
     "properties": {
     "licenseeName":"G AND D EQUITY VISION LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01496",
     "streetAddress":"3106 North Stone Avenue, Unit A",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5216,7 +5216,7 @@
     "streetAddress":"3110 North Stone",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5228,12 +5228,12 @@
     },
     "properties": {
     "licenseeName":"MEDIBIS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01185",
     "streetAddress":"3701 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5250,7 +5250,7 @@
     "streetAddress":"2805 North Prospect Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5267,7 +5267,7 @@
     "streetAddress":"2903 North Prospect Drive",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5284,7 +5284,7 @@
     "streetAddress":"2815 North El Paso Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5301,7 +5301,7 @@
     "streetAddress":"3286 North El Paso Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5318,7 +5318,7 @@
     "streetAddress":"115 East Garden of the Gods Road",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5335,7 +5335,7 @@
     "streetAddress":"3435 Fillmore Ridge Heights",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5352,7 +5352,7 @@
     "streetAddress":"3410 North Prospect Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5364,12 +5364,12 @@
     },
     "properties": {
     "licenseeName":"THE GREEN HOUSE INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01428",
     "streetAddress":"3214 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5381,12 +5381,12 @@
     },
     "properties": {
     "licenseeName":"THE GREEN HOUSE INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00079",
     "streetAddress":"3228 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5398,12 +5398,12 @@
     },
     "properties": {
     "licenseeName":"TINCTUREBELLE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01339",
     "streetAddress":"62 Mount View Lane, Units D&E",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5420,7 +5420,7 @@
     "streetAddress":"3120 Beacon Street, Unit I",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5437,7 +5437,7 @@
     "streetAddress":"2926 Wood Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5454,7 +5454,7 @@
     "streetAddress":"818 East Filmore Street",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5471,7 +5471,7 @@
     "streetAddress":"3234 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80907,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5488,7 +5488,7 @@
     "streetAddress":"1609 South Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80906,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5505,7 +5505,7 @@
     "streetAddress":"2130 Reliable Circle",
     "city":"Colorado Springs",
     "zip":80906,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5522,7 +5522,7 @@
     "streetAddress":"1831 Mount Washington Avenue",
     "city":"Colorado Springs",
     "zip":80906,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5539,7 +5539,7 @@
     "streetAddress":"1414 South Tejon Street",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5556,7 +5556,7 @@
     "streetAddress":"2301 Rand Avenue",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5568,12 +5568,12 @@
     },
     "properties": {
     "licenseeName":"CLINIC 5280",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01315",
     "streetAddress":"1629 South Nevada Avenue, Suite 120",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5590,7 +5590,7 @@
     "streetAddress":"1440 Pando Avenue",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5602,12 +5602,12 @@
     },
     "properties": {
     "licenseeName":"GROW LIFE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00204",
     "streetAddress":"1516 Dustry Drive",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5624,7 +5624,7 @@
     "streetAddress":"2903 North Prospect Street",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5636,12 +5636,12 @@
     },
     "properties": {
     "licenseeName":"MOUNTAIN MED CLUB LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00148",
     "streetAddress":"20 South Chestnut Street",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5653,12 +5653,12 @@
     },
     "properties": {
     "licenseeName":"PURE MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00517",
     "streetAddress":"2125 Busch Avenue",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5675,7 +5675,7 @@
     "streetAddress":"135 East Brookside",
     "city":"Colorado Springs",
     "zip":80905,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5692,7 +5692,7 @@
     "streetAddress":"2755 Ore Mill Road, Units 13 & 14",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5709,7 +5709,7 @@
     "streetAddress":"2755 Ore Mill Road, Units 17/18",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5726,7 +5726,7 @@
     "streetAddress":"3132 West Colorado Avenue",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5743,7 +5743,7 @@
     "streetAddress":"3178 West Colorado Avenue",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5760,7 +5760,7 @@
     "streetAddress":"212 South 21st Street",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5777,7 +5777,7 @@
     "streetAddress":"2222 West Colorado Avenue",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5794,7 +5794,7 @@
     "streetAddress":"3020 West Colorado Avenue, Suite C",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5811,7 +5811,7 @@
     "streetAddress":"2117 West Colorado Avenue",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5828,7 +5828,7 @@
     "streetAddress":"2285 Busch Avenue, Unit 2",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5845,7 +5845,7 @@
     "streetAddress":"2295 Busch Avenue, Unit 3",
     "city":"Colorado Springs",
     "zip":80904,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5862,7 +5862,7 @@
     "streetAddress":"705 North Nevada Avenue",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5879,7 +5879,7 @@
     "streetAddress":"112-114 South Corona Street",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5891,12 +5891,12 @@
     },
     "properties": {
     "licenseeName":"MARI MEDS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00093",
     "streetAddress":"222 East Moreno Avenue",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5913,7 +5913,7 @@
     "streetAddress":"223 East Moreno Avenue",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5925,12 +5925,12 @@
     },
     "properties": {
     "licenseeName":"NATURAL MYSTIC CANNABIS CAREGIVERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00043",
     "streetAddress":"416 East Colorado Avenue, Suite 101",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5942,12 +5942,12 @@
     },
     "properties": {
     "licenseeName":"PAIN MANAGEMENT SOLUTIONS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00164",
     "streetAddress":"1022 South Royer Street",
     "city":"Colorado Springs",
     "zip":80903,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5959,12 +5959,12 @@
     },
     "properties": {
     "licenseeName":"PURE MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00519",
     "streetAddress":"398 South Forty Road",
     "city":"Woodland Park",
     "zip":80863,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5981,7 +5981,7 @@
     "streetAddress":"3721 Wildhorn Road",
     "city":"Florissant",
     "zip":80816,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -5993,12 +5993,12 @@
     },
     "properties": {
     "licenseeName":"J & J MOUNTAIN MEDICALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00871",
     "streetAddress":"11505 US Highway 24 West, Unit 16",
     "city":"Divide",
     "zip":80814,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6010,12 +6010,12 @@
     },
     "properties": {
     "licenseeName":"EAGLES NEST WELLNESS CENTER",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00399",
     "streetAddress":"8455 West Highway 24",
     "city":"Cascade",
     "zip":80809,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6027,12 +6027,12 @@
     },
     "properties": {
     "licenseeName":"NATURES HERBS & WELLNESS CENTER II",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01538",
     "streetAddress":"17216 North Frontage Road",
     "city":"Log Lane Village",
     "zip":80705,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6049,7 +6049,7 @@
     "streetAddress":"2647 8th Avenue, Unit B",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6061,12 +6061,12 @@
     },
     "properties": {
     "licenseeName":"NATURES HERBS & WELLNESS CENTER",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00085",
     "streetAddress":"522 27th Street",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6083,7 +6083,7 @@
     "streetAddress":"5739 Bueno Drive, Suite C-2 & D-2",
     "city":"Fort Collins",
     "zip":80525,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6100,7 +6100,7 @@
     "streetAddress":"5739 Bueno Drive, Suites A & B",
     "city":"Fort Collins",
     "zip":80525,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6112,12 +6112,12 @@
     },
     "properties": {
     "licenseeName":"KIND CARE OF COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01294",
     "streetAddress":"6617 South College Avenue",
     "city":"Fort Collins",
     "zip":80525,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6129,12 +6129,12 @@
     },
     "properties": {
     "licenseeName":"CHOICE ORGANICS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00211",
     "streetAddress":"813 Smithfield Drive, Suites A & B",
     "city":"FORT COLLINS",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6146,12 +6146,12 @@
     },
     "properties": {
     "licenseeName":"FLOWER POWER BOTANICALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00825",
     "streetAddress":"1308 - 1310 Duff Drive",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6168,7 +6168,7 @@
     "streetAddress":"1717 Willox Court, Unit B",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6185,7 +6185,7 @@
     "streetAddress":"938 North College Avenue",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6202,7 +6202,7 @@
     "streetAddress":"120 Hemlock, Units 110 & 120",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6219,7 +6219,7 @@
     "streetAddress":"810 North College Avenue",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6231,12 +6231,12 @@
     },
     "properties": {
     "licenseeName":"NATURAL ALTERNATIVES FOR HEALTH LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01405",
     "streetAddress":"1420 Blue Spruce Drive, Unit H",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6248,12 +6248,12 @@
     },
     "properties": {
     "licenseeName":"SOLACE MEDS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01418",
     "streetAddress":"1736-1740 Willox Court",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6270,7 +6270,7 @@
     "streetAddress":"120 West Hemlock Street, Units 130 & 140",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6282,12 +6282,12 @@
     },
     "properties": {
     "licenseeName":"ACES PLACE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01463",
     "streetAddress":"120 Hemlock, Unit 150",
     "city":"Fort Collins",
     "zip":80521,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6304,7 +6304,7 @@
     "streetAddress":"1090 North 2nd Street",
     "city":"Berthoud",
     "zip":80513,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6321,7 +6321,7 @@
     "streetAddress":"2730 Downhill Drive, #103",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6338,7 +6338,7 @@
     "streetAddress":"2800 Down Hill Plaza, Units 303 & 304",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6350,12 +6350,12 @@
     },
     "properties": {
     "licenseeName":"NATURAL CHOICE CO-OP",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01178",
     "streetAddress":"2835 Downhill Plaza, Unit 603",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6372,7 +6372,7 @@
     "streetAddress":"2005 13th, Lower Unit D",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6389,7 +6389,7 @@
     "streetAddress":"2750 Downhill Plaza, Unit 204",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6406,7 +6406,7 @@
     "streetAddress":"2750 Downhill Plaza, Unit 206",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6423,7 +6423,7 @@
     "streetAddress":"2835 Downhill Plaza, Unit 601",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6440,7 +6440,7 @@
     "streetAddress":"2835 Downhill Plaze, Unit 605",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6452,12 +6452,12 @@
     },
     "properties": {
     "licenseeName":"CRAIG APOTHECARY",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00831",
     "streetAddress":"240 Arthur Avenue, Suite A",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6474,7 +6474,7 @@
     "streetAddress":"1800 Colorado Boulevard, Units 4 & 6,",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6491,7 +6491,7 @@
     "streetAddress":"1221 County Road 308",
     "city":"Dumont",
     "zip":80436,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6503,12 +6503,12 @@
     },
     "properties": {
     "licenseeName":"SOFA KING MEDICINAL WELLNESS PRODUCTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00565",
     "streetAddress":"1181 CR 308",
     "city":"Dumont",
     "zip":80436,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6525,7 +6525,7 @@
     "streetAddress":"1795 Airport Road, Suite A2",
     "city":"Breckenridge",
     "zip":80424,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6537,12 +6537,12 @@
     },
     "properties": {
     "licenseeName":"HCH2 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00331",
     "streetAddress":"44 South Main Street",
     "city":"Alma",
     "zip":80420,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6559,7 +6559,7 @@
     "streetAddress":"1840 Commerce Street Units D & E",
     "city":"Boulder",
     "zip":80305,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6576,7 +6576,7 @@
     "streetAddress":"4727 North Broadway, Unit C",
     "city":"Boulder",
     "zip":80304,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6593,7 +6593,7 @@
     "streetAddress":"6859 North Foothills Hwy, Units D400 & D500",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6610,7 +6610,7 @@
     "streetAddress":"6390 Gunpark Drive, Unit E",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6622,12 +6622,12 @@
     },
     "properties": {
     "licenseeName":"CANNXTRACTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01406",
     "streetAddress":"5595 Arapahoe Avenue, Unit D",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6639,12 +6639,12 @@
     },
     "properties": {
     "licenseeName":"CANNXTRACTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01087",
     "streetAddress":"5595 Arapahoe, Unit A",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6656,12 +6656,12 @@
     },
     "properties": {
     "licenseeName":"HIS WAY HERBS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01265",
     "streetAddress":"5575 Arapahoe Avenue, Units B & C",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6678,7 +6678,7 @@
     "streetAddress":"5595 Arapahoe Avenue, Units C, D and E",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6695,7 +6695,7 @@
     "streetAddress":"5735 Arapahoe Avenue, Unit B1",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6712,7 +6712,7 @@
     "streetAddress":"5565 Arapahoe Avenue, Suite G",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6729,7 +6729,7 @@
     "streetAddress":"5589 Arapahoe, Unit 101",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6746,7 +6746,7 @@
     "streetAddress":"6859 North Foothills Highway,Unit D-300",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6758,12 +6758,12 @@
     },
     "properties": {
     "licenseeName":"RIFLE MOUNTAIN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01123",
     "streetAddress":"6859 North Foothills, Building F-1",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6780,7 +6780,7 @@
     "streetAddress":"5595 Arapahoe Avenue, Suite F",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6792,12 +6792,12 @@
     },
     "properties": {
     "licenseeName":"BOULDER WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01320",
     "streetAddress":"6880 Winchester Circle, Suite A & B",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6814,7 +6814,7 @@
     "streetAddress":"2981 Sterling Court",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6831,7 +6831,7 @@
     "streetAddress":"4700 Sterling Drive, Unit A",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6848,7 +6848,7 @@
     "streetAddress":"4700 Sterling Drive, Unit H",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6865,7 +6865,7 @@
     "streetAddress":"2510 North 47th Street, Unit L",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6882,7 +6882,7 @@
     "streetAddress":"4715 North Broadway, C1, C2, C3 & C8",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6899,7 +6899,7 @@
     "streetAddress":"4665 Nautilus Court, Suite 400",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6916,7 +6916,7 @@
     "streetAddress":"4747 Pearl Street, Unit M1",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6933,7 +6933,7 @@
     "streetAddress":"5595 Arapahoe Road, Suite B, G And H",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6945,12 +6945,12 @@
     },
     "properties": {
     "licenseeName":"PIKES PEAK CANNABIS CAREGIVERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01328",
     "streetAddress":"4747 Pearl Street, Unit M2",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6967,7 +6967,7 @@
     "streetAddress":"4747 Pearl Street, Units V3A & V3C",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -6979,12 +6979,12 @@
     },
     "properties": {
     "licenseeName":"SOUTHWEST ALTERNATIVE CARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01001",
     "streetAddress":"6390 Gunpark Drive, Unit A",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7001,7 +7001,7 @@
     "streetAddress":"7161 Valtec Court, Unit A",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7013,12 +7013,12 @@
     },
     "properties": {
     "licenseeName":"TENDERFOOT HEALTH COLLECTIVE",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01400",
     "streetAddress":"2510 47th Street, #GG",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7035,7 +7035,7 @@
     "streetAddress":"6390 Gunpark Drive, Unit C",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7052,7 +7052,7 @@
     "streetAddress":"1845 Range Street, Bay G",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7069,7 +7069,7 @@
     "streetAddress":"4600 Ironton Street, Suite B",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7086,7 +7086,7 @@
     "streetAddress":"4600 Ironton Street, Unit B",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7103,7 +7103,7 @@
     "streetAddress":"5098 Paris Street, Building #1",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7120,7 +7120,7 @@
     "streetAddress":"5475 Peoria Street, Building 2, Units 106-110",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7132,12 +7132,12 @@
     },
     "properties": {
     "licenseeName":"ALLGREENS",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00844",
     "streetAddress":"5475 Peoria Street, Suite1-104",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7149,12 +7149,12 @@
     },
     "properties": {
     "licenseeName":"CANNA CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00078",
     "streetAddress":"3819 North Quentin Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7171,7 +7171,7 @@
     "streetAddress":"5475 Peoria Street, Unit 1-101,102,103",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7188,7 +7188,7 @@
     "streetAddress":"11155 East 51st Avenue, Suite A",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7205,7 +7205,7 @@
     "streetAddress":"4800 Oakland Street, Unit 5",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7222,7 +7222,7 @@
     "streetAddress":"3819 Quentin Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7239,7 +7239,7 @@
     "streetAddress":"4750 Nome Street, Unit B",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7256,7 +7256,7 @@
     "streetAddress":"4725-35 Oakland Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7268,12 +7268,12 @@
     },
     "properties": {
     "licenseeName":"GUARANTEED GREEN LTD",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01663",
     "streetAddress":"4800 Oakland Street, Unit 3",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7290,7 +7290,7 @@
     "streetAddress":"5475 Peoria Street, Building 1, Suite 106",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7302,12 +7302,12 @@
     },
     "properties": {
     "licenseeName":"LITTLE GREEN PHARMACY INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00631",
     "streetAddress":"4575 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7319,12 +7319,12 @@
     },
     "properties": {
     "licenseeName":"LYONS FINEST CONFIDENTIAL CARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01288",
     "streetAddress":"11080 East 47th Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7336,12 +7336,12 @@
     },
     "properties": {
     "licenseeName":"PERSONALIZED ORGANIC TREATMENTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01036",
     "streetAddress":"11122 East 47th Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7358,7 +7358,7 @@
     "streetAddress":"5550 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7375,7 +7375,7 @@
     "streetAddress":"4645 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7392,7 +7392,7 @@
     "streetAddress":"1285 West Byers Place, Unit B",
     "city":"Denver",
     "zip":80233,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7409,7 +7409,7 @@
     "streetAddress":"1395 South Sheridan Boulevard, Units F, G, H & I",
     "city":"Lakewood",
     "zip":80232,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7426,7 +7426,7 @@
     "streetAddress":"50 Lipan Street",
     "city":"Denver",
     "zip":80226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7443,7 +7443,7 @@
     "streetAddress":"10712 West Alameda Avenue",
     "city":"Lakewood",
     "zip":80226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7460,7 +7460,7 @@
     "streetAddress":"6745 West Mississippi Avenue, Suite B",
     "city":"Lakewood",
     "zip":80226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7477,7 +7477,7 @@
     "streetAddress":"5660 West Alameda Avenue",
     "city":"Denver",
     "zip":80226,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7494,7 +7494,7 @@
     "streetAddress":"875 Navajo Street",
     "city":"Denver",
     "zip":80224,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7511,7 +7511,7 @@
     "streetAddress":"2675 South Santa Fe Drive, Units 6E, 6F, 6G",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7523,12 +7523,12 @@
     },
     "properties": {
     "licenseeName":"ADVANCED MEDICAL ALTERNATIVES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01534",
     "streetAddress":"400 South Lipan, Unit 2 & 6",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7545,7 +7545,7 @@
     "streetAddress":"52 Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7557,12 +7557,12 @@
     },
     "properties": {
     "licenseeName":"ALTERNATIVE MEDICINE ON CAPITOL HILL",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00003",
     "streetAddress":"211 Wyandot Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7574,12 +7574,12 @@
     },
     "properties": {
     "licenseeName":"ALTITUDE WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00324",
     "streetAddress":"1131, 1133, and 1135 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7591,12 +7591,12 @@
     },
     "properties": {
     "licenseeName":"ANIMAS HERBAL WELLNESS CENTER INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01688",
     "streetAddress":"1101 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7608,12 +7608,12 @@
     },
     "properties": {
     "licenseeName":"ANIMAS HERBAL WELLNESS CENTER INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00898",
     "streetAddress":"1115 South Bannock Street, Unit B,",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7625,12 +7625,12 @@
     },
     "properties": {
     "licenseeName":"ANIMAS HERBAL WELLNESS CENTER INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01369",
     "streetAddress":"577 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7647,7 +7647,7 @@
     "streetAddress":"803 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7659,12 +7659,12 @@
     },
     "properties": {
     "licenseeName":"B'S TREATS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01566",
     "streetAddress":"1952 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7681,7 +7681,7 @@
     "streetAddress":"1031 West Center Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7698,7 +7698,7 @@
     "streetAddress":"1980 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7715,7 +7715,7 @@
     "streetAddress":"150 North Tejon",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7732,7 +7732,7 @@
     "streetAddress":"1270 West Cedar Avenue, Unit A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7749,7 +7749,7 @@
     "streetAddress":"1901 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7766,7 +7766,7 @@
     "streetAddress":"2042 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7783,7 +7783,7 @@
     "streetAddress":"2160 S. Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7800,7 +7800,7 @@
     "streetAddress":"2160 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7817,7 +7817,7 @@
     "streetAddress":"1920 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7834,7 +7834,7 @@
     "streetAddress":"2490 West 2nd Avenue, Unit A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7846,12 +7846,12 @@
     },
     "properties": {
     "licenseeName":"COLORADO WELLNESS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01690",
     "streetAddress":"2050 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7868,7 +7868,7 @@
     "streetAddress":"1075 South Fox Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7880,12 +7880,12 @@
     },
     "properties": {
     "licenseeName":"DARK HORSE GENETICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01702",
     "streetAddress":"2145 South Kalamath Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7902,7 +7902,7 @@
     "streetAddress":"1870 South Acoma",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7914,12 +7914,12 @@
     },
     "properties": {
     "licenseeName":"EVERGREEN ENTERPRISES LTD",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01621",
     "streetAddress":"1770 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7936,7 +7936,7 @@
     "streetAddress":"1196 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7953,7 +7953,7 @@
     "streetAddress":"2175 South Platte River Drive, Unit 101",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7970,7 +7970,7 @@
     "streetAddress":"2191 South Platte River Drive",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7987,7 +7987,7 @@
     "streetAddress":"136 Yuma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -7999,12 +7999,12 @@
     },
     "properties": {
     "licenseeName":"HERBAL WELLNESS",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00265",
     "streetAddress":"1475 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8021,7 +8021,7 @@
     "streetAddress":"2335 South Platte River Drive",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8038,7 +8038,7 @@
     "streetAddress":"1110 West Virginia Avenue, Unit 4",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8055,7 +8055,7 @@
     "streetAddress":"1075 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8072,7 +8072,7 @@
     "streetAddress":"1355 South Inca Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8089,7 +8089,7 @@
     "streetAddress":"4 South Santa Fe Drive",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8106,7 +8106,7 @@
     "streetAddress":"1325 South Inca Street, Unit A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8123,7 +8123,7 @@
     "streetAddress":"1325 South Inca Street, Unit B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8135,12 +8135,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01619",
     "streetAddress":"2252 South Kalamath Street, Unit C",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8152,12 +8152,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01354",
     "streetAddress":"54 Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8169,12 +8169,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH GREEN CROSS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00881",
     "streetAddress":"1015 West Evans Avenue, Units A & B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8191,7 +8191,7 @@
     "streetAddress":"2291 South Kalamath Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8208,7 +8208,7 @@
     "streetAddress":"1155 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8225,7 +8225,7 @@
     "streetAddress":"1301 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8242,7 +8242,7 @@
     "streetAddress":"400 South Lipan Street, Unit 11",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8259,7 +8259,7 @@
     "streetAddress":"150 Rio Grande Boulevard",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8276,7 +8276,7 @@
     "streetAddress":"1191 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8288,12 +8288,12 @@
     },
     "properties": {
     "licenseeName":"ORGANIX LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01321",
     "streetAddress":"1001 West Center Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8305,12 +8305,12 @@
     },
     "properties": {
     "licenseeName":"PATIENTS CHOICE OF COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01343",
     "streetAddress":"1201 West Custer Place",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8327,7 +8327,7 @@
     "streetAddress":"2218 South Kalamath Street, Unit A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8339,12 +8339,12 @@
     },
     "properties": {
     "licenseeName":"ROCKY MOUNTAIN ORGANIC MEDICINE INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00375",
     "streetAddress":"2345 South Delaware Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8356,12 +8356,12 @@
     },
     "properties": {
     "licenseeName":"SMOKED COLORADO INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01620",
     "streetAddress":"1990 South Cherokee Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8373,12 +8373,12 @@
     },
     "properties": {
     "licenseeName":"SOLACE MEDS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01532",
     "streetAddress":"1015 West Evans Avenue, Unit C",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8390,12 +8390,12 @@
     },
     "properties": {
     "licenseeName":"SWEET LEAF LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00352",
     "streetAddress":"110 Yuma Street, Unit 3",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8412,7 +8412,7 @@
     "streetAddress":"2252 South Kalamath Street, Unit A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8429,7 +8429,7 @@
     "streetAddress":"400 South Lipan Street #15",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8446,7 +8446,7 @@
     "streetAddress":"400 South Lipan Street, #3 & 7",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8458,12 +8458,12 @@
     },
     "properties": {
     "licenseeName":"UNIVERSAL HERBS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01457",
     "streetAddress":"1197 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8475,12 +8475,12 @@
     },
     "properties": {
     "licenseeName":"URBANE DEVELOPERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01618",
     "streetAddress":"2185 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8492,12 +8492,12 @@
     },
     "properties": {
     "licenseeName":"WANNA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00047",
     "streetAddress":"1865 South Acoma",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8514,7 +8514,7 @@
     "streetAddress":"366 Vallejo Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8531,7 +8531,7 @@
     "streetAddress":"2675 South Santa Fe Drive, Units 6C, 6D, 6E, 6F, 6G and 6H",
     "city":"Denver",
     "zip":80223,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8548,7 +8548,7 @@
     "streetAddress":"1434 North Ulster Street",
     "city":"Denver",
     "zip":80220,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8560,12 +8560,12 @@
     },
     "properties": {
     "licenseeName":"CAREGIVERS FOR LIFE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00451",
     "streetAddress":"2744 West 4th Avenue, Unit 200",
     "city":"Denver",
     "zip":80219,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8582,7 +8582,7 @@
     "streetAddress":"5109 West Alameda Avenue",
     "city":"Denver",
     "zip":80219,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8594,12 +8594,12 @@
     },
     "properties": {
     "licenseeName":"NATURES OWN WELLNESS CENTER",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00311",
     "streetAddress":"2744 West 4th Avenue, Unit 202",
     "city":"Denver",
     "zip":80219,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8616,7 +8616,7 @@
     "streetAddress":"74 North Federal Boulevard",
     "city":"Denver",
     "zip":80219,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8633,7 +8633,7 @@
     "streetAddress":"4820 Morrison Road",
     "city":"Denver",
     "zip":80219,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8650,7 +8650,7 @@
     "streetAddress":"4305 Brighton Blvd.",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8667,7 +8667,7 @@
     "streetAddress":"5110 Race Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8684,7 +8684,7 @@
     "streetAddress":"4335 Race Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8701,7 +8701,7 @@
     "streetAddress":"4990 Dahlia Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8718,7 +8718,7 @@
     "streetAddress":"5141 Franklin Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8735,7 +8735,7 @@
     "streetAddress":"4228 York Street, Units 102, 103 & 105",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8752,7 +8752,7 @@
     "streetAddress":"4902 East Smith Road, Unit C",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8769,7 +8769,7 @@
     "streetAddress":"4228 North York Street, Unit 101",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8786,7 +8786,7 @@
     "streetAddress":"5194 Washington Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8803,7 +8803,7 @@
     "streetAddress":"4228 North York Street, Units 104, 106 & 107",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8820,7 +8820,7 @@
     "streetAddress":"4228 York Street, Units 104, 106 & 107",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8837,7 +8837,7 @@
     "streetAddress":"4237 Josephine Street, Unit 102 & 103",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8849,12 +8849,12 @@
     },
     "properties": {
     "licenseeName":"DENCO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01355",
     "streetAddress":"4300 East 51st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8866,12 +8866,12 @@
     },
     "properties": {
     "licenseeName":"DENVER PACKAGING COMPANY",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01423",
     "streetAddress":"5100 Cook Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8888,7 +8888,7 @@
     "streetAddress":"4960 North Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8905,7 +8905,7 @@
     "streetAddress":"3850 East 48th Avenue, Unit E",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8922,7 +8922,7 @@
     "streetAddress":"4300 Forest Street, Suite 150",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8939,7 +8939,7 @@
     "streetAddress":"5231 Monroe Street, Unit 200",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8956,7 +8956,7 @@
     "streetAddress":"4935 Pearl Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8968,12 +8968,12 @@
     },
     "properties": {
     "licenseeName":"GRAND TRAVERSE HOLDINGS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01651",
     "streetAddress":"4420 & 4430 Garfield Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -8990,7 +8990,7 @@
     "streetAddress":"3850 East 48th Avenue, Unit 3",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9002,12 +9002,12 @@
     },
     "properties": {
     "licenseeName":"GREEN AROUND YOU LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01411",
     "streetAddress":"4840 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9019,12 +9019,12 @@
     },
     "properties": {
     "licenseeName":"GREEN CROSS COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00673",
     "streetAddress":"660 Bryant Street, Unit #102",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9041,7 +9041,7 @@
     "streetAddress":"5225 Monroe Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9058,7 +9058,7 @@
     "streetAddress":"4802 Brighton Boulevard",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9075,7 +9075,7 @@
     "streetAddress":"4800 Brighton Boulevard, Unit 102-B",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9087,12 +9087,12 @@
     },
     "properties": {
     "licenseeName":"GREENWERKZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00229",
     "streetAddress":"3615 Delgany Street,Unit A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9109,7 +9109,7 @@
     "streetAddress":"5285-5305 Steele Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9126,7 +9126,7 @@
     "streetAddress":"4570 Jason Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9143,7 +9143,7 @@
     "streetAddress":"4425 East 46th Avenue, Suite A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9160,7 +9160,7 @@
     "streetAddress":"4425 East 46th Avenue, Unit A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9172,12 +9172,12 @@
     },
     "properties": {
     "licenseeName":"LOTUS MEDICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00474",
     "streetAddress":"4950 East 41st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9194,7 +9194,7 @@
     "streetAddress":"4260 Kearney Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9206,12 +9206,12 @@
     },
     "properties": {
     "licenseeName":"NATURES CURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01584",
     "streetAddress":"4425 East 46th Avenue, Suite A Room 1",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9228,7 +9228,7 @@
     "streetAddress":"835 East 50th Avenue, Suites A-B",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9240,12 +9240,12 @@
     },
     "properties": {
     "licenseeName":"P&C EXPRESS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00245",
     "streetAddress":"4237 Josephine Street, Units 102 & 103",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9262,7 +9262,7 @@
     "streetAddress":"4880 East 41st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9274,12 +9274,12 @@
     },
     "properties": {
     "licenseeName":"PHYSICIAN PREFERRED PRODUCTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01568",
     "streetAddress":"4080 Globeville Road",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9291,12 +9291,12 @@
     },
     "properties": {
     "licenseeName":"PLATTE VALLEY DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00032",
     "streetAddress":"3926 Race Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9308,12 +9308,12 @@
     },
     "properties": {
     "licenseeName":"REVTEC LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01513",
     "streetAddress":"2640 East 43rd Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9330,7 +9330,7 @@
     "streetAddress":"4155 Grape Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9342,12 +9342,12 @@
     },
     "properties": {
     "licenseeName":"ROCKY MOUNTAIN HIGH PAIN MANAGEMENT INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00061",
     "streetAddress":"4237 Josephine Street, Unit 102",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9364,7 +9364,7 @@
     "streetAddress":"4228 York Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9381,7 +9381,7 @@
     "streetAddress":"4900 Acoma Street, Unit C",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9398,7 +9398,7 @@
     "streetAddress":"4694 North Glencoe Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9410,12 +9410,12 @@
     },
     "properties": {
     "licenseeName":"STANDING AKIMBO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01101",
     "streetAddress":"835 East 50th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9432,7 +9432,7 @@
     "streetAddress":"4140 York Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9449,7 +9449,7 @@
     "streetAddress":"2121 East 44th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9461,12 +9461,12 @@
     },
     "properties": {
     "licenseeName":"TREE OF WELLNESS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00664",
     "streetAddress":"3303 East 42nd Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9483,7 +9483,7 @@
     "streetAddress":"3301 East 42nd Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9500,7 +9500,7 @@
     "streetAddress":"5040 York Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9517,7 +9517,7 @@
     "streetAddress":"5050 York Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9534,7 +9534,7 @@
     "streetAddress":"4501 Wynkoop Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9551,7 +9551,7 @@
     "streetAddress":"4359 Claude Court",
     "city":"Denver",
     "zip":80216,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9568,7 +9568,7 @@
     "streetAddress":"2636 Youngfield Street",
     "city":"Lakewood",
     "zip":80215,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9585,7 +9585,7 @@
     "streetAddress":"4103 Sheridan Boulevard",
     "city":"Mountain View",
     "zip":80212,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9597,12 +9597,12 @@
     },
     "properties": {
     "licenseeName":"MEDICINAL WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00833",
     "streetAddress":"5195 East 39th Avenue, Unit 102",
     "city":"Denver",
     "zip":80212,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9619,7 +9619,7 @@
     "streetAddress":"1011 West 45th Avenue",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9631,12 +9631,12 @@
     },
     "properties": {
     "licenseeName":"ALIVE HERBAL MEDICINE",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00633",
     "streetAddress":"4573 Pecos Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9653,7 +9653,7 @@
     "streetAddress":"1127 West 46th Avenue",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9665,12 +9665,12 @@
     },
     "properties": {
     "licenseeName":"GREEN LEAF LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00014",
     "streetAddress":"1441 West 46th Avenue, Units 1, 2 & 3",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9682,12 +9682,12 @@
     },
     "properties": {
     "licenseeName":"GREEN LEAF LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01361",
     "streetAddress":"1441 West 46th Avenue, Units 20, 21 & 22",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9704,7 +9704,7 @@
     "streetAddress":"4755 Lipan Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9721,7 +9721,7 @@
     "streetAddress":"1127 West 46th Ave",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9738,7 +9738,7 @@
     "streetAddress":"4707 Lipan Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9750,12 +9750,12 @@
     },
     "properties": {
     "licenseeName":"LYONS FINEST CONFIDENTIAL CARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00632",
     "streetAddress":"1441 West 46th Avenue, Unit 6",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9772,7 +9772,7 @@
     "streetAddress":"4090 North Jason Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9789,7 +9789,7 @@
     "streetAddress":"4421 Inca Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9806,7 +9806,7 @@
     "streetAddress":"2020 South Broadway",
     "city":"Denver",
     "zip":80210,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9823,7 +9823,7 @@
     "streetAddress":"1911 South Broadway",
     "city":"Denver",
     "zip":80210,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9840,7 +9840,7 @@
     "streetAddress":"5227 Monroe Street",
     "city":"Denver",
     "zip":80209,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9857,7 +9857,7 @@
     "streetAddress":"4925 East 38th Avenue",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9874,7 +9874,7 @@
     "streetAddress":"3955 Oneida Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9891,7 +9891,7 @@
     "streetAddress":"3930 Holly Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9908,7 +9908,7 @@
     "streetAddress":"3835 Elm Street, Units B & C",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9920,12 +9920,12 @@
     },
     "properties": {
     "licenseeName":"MEDICINAL WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01522",
     "streetAddress":"5005 E. 39th Avenue",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9942,7 +9942,7 @@
     "streetAddress":"5105 East 38th Avenue, Unit 104",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9959,7 +9959,7 @@
     "streetAddress":"4925 East 38th Avenue, Unit 105",
     "city":"Denver",
     "zip":80207,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9976,7 +9976,7 @@
     "streetAddress":"3887 North Steele Street, Unit 102",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -9993,7 +9993,7 @@
     "streetAddress":"1660 E. 40th Avenue, Unit A",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10010,7 +10010,7 @@
     "streetAddress":"3944 High Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10027,7 +10027,7 @@
     "streetAddress":"3930 Blake Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10044,7 +10044,7 @@
     "streetAddress":"2042 Arapahoe Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10061,7 +10061,7 @@
     "streetAddress":"3814 Walnut Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10073,12 +10073,12 @@
     },
     "properties": {
     "licenseeName":"WESTERN SLOPE CAREGIVERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00667",
     "streetAddress":"3244 Walnut Street",
     "city":"Denver",
     "zip":80205,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10095,7 +10095,7 @@
     "streetAddress":"777 Umatilla Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10112,7 +10112,7 @@
     "streetAddress":"750 North Canosa Court",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10129,7 +10129,7 @@
     "streetAddress":"762 / 764 Kalamath Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10146,7 +10146,7 @@
     "streetAddress":"680 Lipan Street, Suite 101",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10163,7 +10163,7 @@
     "streetAddress":"695 Bryant Street, Unit 500",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10175,12 +10175,12 @@
     },
     "properties": {
     "licenseeName":"BOULDER COUNTY CAREGIVERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01488",
     "streetAddress":"695 Bryant, Unit 700",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10192,12 +10192,12 @@
     },
     "properties": {
     "licenseeName":"GREEN GRASS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00459",
     "streetAddress":"670 North Bryant Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10214,7 +10214,7 @@
     "streetAddress":"777 Umatilla Street, Suite E",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10231,7 +10231,7 @@
     "streetAddress":"777 Canosa Court, Unit 101",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10243,12 +10243,12 @@
     },
     "properties": {
     "licenseeName":"GREENWERKZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00228",
     "streetAddress":"830 North Wyandot Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10265,7 +10265,7 @@
     "streetAddress":"866 Navajo Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10282,7 +10282,7 @@
     "streetAddress":"880 Navajo Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10299,7 +10299,7 @@
     "streetAddress":"1001 Tejon Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10311,12 +10311,12 @@
     },
     "properties": {
     "licenseeName":"MILE HIGH THERAPEUTIC NETWORK LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00295",
     "streetAddress":"900 North Vallejo Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10333,7 +10333,7 @@
     "streetAddress":"695 Bryant Street Unit 400",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10350,7 +10350,7 @@
     "streetAddress":"695 Bryant Street, Unit 600",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10367,7 +10367,7 @@
     "streetAddress":"688 Bryant Street, Suites 100-104, 200",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10379,12 +10379,12 @@
     },
     "properties": {
     "licenseeName":"THE GREEN SOLUTION LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00179",
     "streetAddress":"2600 West Barberry Place",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10401,7 +10401,7 @@
     "streetAddress":"1237 Shoshone Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10418,7 +10418,7 @@
     "streetAddress":"688 Bryant Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10430,12 +10430,12 @@
     },
     "properties": {
     "licenseeName":"WESTERN REMEDIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00270",
     "streetAddress":"777 Canosa Court, Units 102/104",
     "city":"Denver",
     "zip":80204,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10447,12 +10447,12 @@
     },
     "properties": {
     "licenseeName":"TETRAHYDROCENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00662",
     "streetAddress":"221 Wyandot Street",
     "city":"Denver",
     "zip":80203,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10469,7 +10469,7 @@
     "streetAddress":"855 Highway 105",
     "city":"Palmer Lake",
     "zip":80133,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10486,7 +10486,7 @@
     "streetAddress":"1086 West Littleton Boulevard",
     "city":"Littleton",
     "zip":80122,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10498,12 +10498,12 @@
     },
     "properties": {
     "licenseeName":"MOTHER NATURES MIRACLE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-00240",
     "streetAddress":"315 West Littleton Boulevard",
     "city":"Littleton",
     "zip":80120,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10520,7 +10520,7 @@
     "streetAddress":"4332 South Broadway",
     "city":"Englewood",
     "zip":80113,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10537,7 +10537,7 @@
     "streetAddress":"4695 South Windermere, Units A & B",
     "city":"Englewood",
     "zip":80110,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10554,7 +10554,7 @@
     "streetAddress":"4800 Lamar Street Unit B 1st Floor",
     "city":"Wheat Ridge",
     "zip":80033,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10566,12 +10566,12 @@
     },
     "properties": {
     "licenseeName":"MEDICAL MJ SUPPLY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01337",
     "streetAddress":"4845 Van Gordon Street",
     "city":"Wheat Ridge",
     "zip":80033,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10588,7 +10588,7 @@
     "streetAddress":"1224 Commerce Court, Unit 7,",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10605,7 +10605,7 @@
     "streetAddress":"1700 South 120th Street, Unit B1, B2, B3A",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10617,12 +10617,12 @@
     },
     "properties": {
     "licenseeName":"RINO SUPPLY CO INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403-01200",
     "streetAddress":"10452 Isabelle Road",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Medical",
+    "operation":"MEDICAL",
     "marker-color":"#c11b17"
     }
   },
@@ -10639,7 +10639,7 @@
     "streetAddress":"421 Upper Cattle Creek Rd",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10656,7 +10656,7 @@
     "streetAddress":"37047 Highway 550",
     "city":"Montrose",
     "zip":81403,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10673,7 +10673,7 @@
     "streetAddress":"67085 US Highway 50",
     "city":"Gunnison",
     "zip":81230,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10685,12 +10685,12 @@
     },
     "properties": {
     "licenseeName":"DARK HORSE GENETICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00597",
     "streetAddress":"63520 East State Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10707,7 +10707,7 @@
     "streetAddress":"63500 East State Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10724,7 +10724,7 @@
     "streetAddress":"102 North River Road",
     "city":"Snowmass",
     "zip":81654,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10741,7 +10741,7 @@
     "streetAddress":"3010 Airport Rd",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10758,7 +10758,7 @@
     "streetAddress":"184 Gas Court",
     "city":"Rifle",
     "zip":81650,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10775,7 +10775,7 @@
     "streetAddress":"11157 Gypsum Creek Road",
     "city":"Gypsum",
     "zip":81637,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10787,12 +10787,12 @@
     },
     "properties": {
     "licenseeName":"NEW HOPE WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00342",
     "streetAddress":"210 Edwards Village Boulevard Unit B-210",
     "city":"Edwards",
     "zip":81632,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10804,12 +10804,12 @@
     },
     "properties": {
     "licenseeName":"DISTRICT 8 HOLDINGS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00578",
     "streetAddress":"2139 45 Road",
     "city":"De Beque",
     "zip":81630,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10826,7 +10826,7 @@
     "streetAddress":"170 East 3rd Street",
     "city":"De Beque",
     "zip":81630,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10838,12 +10838,12 @@
     },
     "properties": {
     "licenseeName":"CATTLE CREEK CULTIVATIONS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00345",
     "streetAddress":"420 Upper Cattle Creek Road, Lot 4",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10855,12 +10855,12 @@
     },
     "properties": {
     "licenseeName":"CMED LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00089",
     "streetAddress":"615 Buggy Circle, Unit D",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10877,7 +10877,7 @@
     "streetAddress":"655 Buggy Circle",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10889,12 +10889,12 @@
     },
     "properties": {
     "licenseeName":"COOPER MASON VENTURES 2 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00298",
     "streetAddress":"11556 Highway 133",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10911,7 +10911,7 @@
     "streetAddress":"11556 Highway133",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10923,12 +10923,12 @@
     },
     "properties": {
     "licenseeName":"CRYSTAL RIVER GROWERS",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00523",
     "streetAddress":"220 North 12th Street, Unit A",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10940,12 +10940,12 @@
     },
     "properties": {
     "licenseeName":"RFSCG1 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00322",
     "streetAddress":"421 Upper Cattle Creek Road",
     "city":"Carbondale",
     "zip":81623,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10962,7 +10962,7 @@
     "streetAddress":"40928 Highway 6, Unit 2-C",
     "city":"Avon",
     "zip":81620,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10974,12 +10974,12 @@
     },
     "properties": {
     "licenseeName":"WILLS CONSULTING LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00463",
     "streetAddress":"40690 Highway 6, Unit F",
     "city":"Avon",
     "zip":81620,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -10991,12 +10991,12 @@
     },
     "properties": {
     "licenseeName":"OSIRIS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00576",
     "streetAddress":"2150 Devereux Road",
     "city":"Glenwood Springs",
     "zip":81601,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11008,12 +11008,12 @@
     },
     "properties": {
     "licenseeName":"DELILAH LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00238",
     "streetAddress":"753 & 755 Vance Drive",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11025,12 +11025,12 @@
     },
     "properties": {
     "licenseeName":"NEW WORLD ALTERNATIVE HEALTHCARE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00197",
     "streetAddress":"135 South Spruce Street",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11047,7 +11047,7 @@
     "streetAddress":"711 South Park Road, #E",
     "city":"Telluride",
     "zip":81435,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11064,7 +11064,7 @@
     "streetAddress":"336 King Avenue",
     "city":"Somerset",
     "zip":81434,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11081,7 +11081,7 @@
     "streetAddress":"124 East 13th Street, Unit A",
     "city":"Silverton",
     "zip":81433,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11098,7 +11098,7 @@
     "streetAddress":"71463 US Highway 550",
     "city":"Silverton",
     "zip":81433,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11110,12 +11110,12 @@
     },
     "properties": {
     "licenseeName":"ACME DISPENSARY INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00205",
     "streetAddress":"22327 US Hwy 550 LOT B",
     "city":"Ridgeway",
     "zip":81432,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11127,12 +11127,12 @@
     },
     "properties": {
     "licenseeName":"ACME HEALING CENTER OF RIDGWAY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00204",
     "streetAddress":"22327 US Hwy 550 Lot B",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11149,7 +11149,7 @@
     "streetAddress":"5636 County Road 23",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11166,7 +11166,7 @@
     "streetAddress":"5492 County Road 23",
     "city":"Ridgway",
     "zip":81432,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11178,12 +11178,12 @@
     },
     "properties": {
     "licenseeName":"DALLAS CREEK NURSERIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00604",
     "streetAddress":"304 Weahgatay Road",
     "city":"Montrose",
     "zip":81403,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11195,12 +11195,12 @@
     },
     "properties": {
     "licenseeName":"HESPERUS MOUNTAIN HEALERS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00484",
     "streetAddress":"444 Conestoga Way",
     "city":"Hesperus",
     "zip":81326,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11217,7 +11217,7 @@
     "streetAddress":"1531 North Lebanon Road",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11234,7 +11234,7 @@
     "streetAddress":"2301 South Broadway",
     "city":"Cortez",
     "zip":81321,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11251,7 +11251,7 @@
     "streetAddress":"12929 US HWY 550 SOUTH",
     "city":"Durango",
     "zip":81303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11263,12 +11263,12 @@
     },
     "properties": {
     "licenseeName":"MJ DURANGO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00592",
     "streetAddress":"28753 East US Highway 160",
     "city":"Durango",
     "zip":81301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11285,7 +11285,7 @@
     "streetAddress":"83 Davidson Creek Rd",
     "city":"Durango",
     "zip":81301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11302,7 +11302,7 @@
     "streetAddress":"1765 D-K Drive",
     "city":"Durango",
     "zip":81301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11314,12 +11314,12 @@
     },
     "properties": {
     "licenseeName":"CANNATONIC LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00442",
     "streetAddress":"400 Industrial Park Road",
     "city":"Gunnison",
     "zip":81230,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11331,12 +11331,12 @@
     },
     "properties": {
     "licenseeName":"CCCENTER7 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00369",
     "streetAddress":"103 Basin Park Drive",
     "city":"Gunnison",
     "zip":81230,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11348,12 +11348,12 @@
     },
     "properties": {
     "licenseeName":"SOUTHERN CHARM ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00394",
     "streetAddress":"435 Industrial Park Road",
     "city":"Gunnison",
     "zip":81230,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11370,7 +11370,7 @@
     "streetAddress":"398 Riverland Dr",
     "city":"Crested Butte",
     "zip":81224,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11382,12 +11382,12 @@
     },
     "properties": {
     "licenseeName":"PURE INDUSTRIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00410",
     "streetAddress":"398 Riverland Drive, Suites 1-B, 1-C, 2-C",
     "city":"Crested Butte",
     "zip":81224,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11399,12 +11399,12 @@
     },
     "properties": {
     "licenseeName":"BERLIN INTERNATIONAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00301",
     "streetAddress":"7800 Hannah Lane, County Road 152",
     "city":"Salida",
     "zip":81201,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11416,12 +11416,12 @@
     },
     "properties": {
     "licenseeName":"BIOENERGETIC HEALING CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00163",
     "streetAddress":"7851 County Road 150",
     "city":"Salida",
     "zip":81201,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11438,7 +11438,7 @@
     "streetAddress":"7729 CR 150, Suites A-C",
     "city":"Salida",
     "zip":81201,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11455,7 +11455,7 @@
     "streetAddress":"23320 County Road K5",
     "city":"San Luis",
     "zip":81152,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11472,7 +11472,7 @@
     "streetAddress":"20663 Unit B, County Road P6",
     "city":"San Luis",
     "zip":81152,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11484,12 +11484,12 @@
     },
     "properties": {
     "licenseeName":"MOUNTAIN HIGH 14,047 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00546",
     "streetAddress":"22057 County Road K.5",
     "city":"San Pablo",
     "zip":81152,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11501,12 +11501,12 @@
     },
     "properties": {
     "licenseeName":"VISTABUDS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00564",
     "streetAddress":"10788 County Road 21",
     "city":"San Pablo",
     "zip":81152,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11518,12 +11518,12 @@
     },
     "properties": {
     "licenseeName":"ELEV8ED EXCELLENCE INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00590",
     "streetAddress":"14890 CR .2",
     "city":"San Acacio",
     "zip":81151,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11540,7 +11540,7 @@
     "streetAddress":"14231 County Road 55",
     "city":"Saguache",
     "zip":81149,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11557,7 +11557,7 @@
     "streetAddress":"600 Cloman Boulevard, #5, 6,7, 8",
     "city":"Pagosa Springs",
     "zip":81147,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11574,7 +11574,7 @@
     "streetAddress":"354 Bastille Drive",
     "city":"Pagosa Springs",
     "zip":81147,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11586,12 +11586,12 @@
     },
     "properties": {
     "licenseeName":"SACRED VALLEY MEDICINE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00440",
     "streetAddress":"61185 County Road T",
     "city":"Moffat",
     "zip":81143,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11608,7 +11608,7 @@
     "streetAddress":"63003 County Road CC",
     "city":"Moffat",
     "zip":81143,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11625,7 +11625,7 @@
     "streetAddress":"54414 County Road F",
     "city":"Center",
     "zip":81125,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11642,7 +11642,7 @@
     "streetAddress":"973 U.S. Highway 85 87, Suite 100",
     "city":"Walsenburg",
     "zip":81089,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11659,7 +11659,7 @@
     "streetAddress":"25462 West US Highway 160",
     "city":"Walsenburg",
     "zip":81089,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11676,7 +11676,7 @@
     "streetAddress":"3019 Toupal Drive",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11693,7 +11693,7 @@
     "streetAddress":"612 Hainlen Street",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11710,7 +11710,7 @@
     "streetAddress":"1105 Constitution Drive",
     "city":"Trinidad",
     "zip":81082,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11727,7 +11727,7 @@
     "streetAddress":"6480 Pickney Rd",
     "city":"Rye",
     "zip":81069,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11744,7 +11744,7 @@
     "streetAddress":"6040 Big Sky, Building A",
     "city":"Rye",
     "zip":81069,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11761,7 +11761,7 @@
     "streetAddress":"3943 County Road 650",
     "city":"Rye",
     "zip":81069,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11778,7 +11778,7 @@
     "streetAddress":"853 Greenhorn Mountain Circle",
     "city":"Rye",
     "zip":81069,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11790,12 +11790,12 @@
     },
     "properties": {
     "licenseeName":"VIRIDIS POLLEX LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00601",
     "streetAddress":"900 Conductor Court",
     "city":"Rye",
     "zip":81069,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11812,7 +11812,7 @@
     "streetAddress":"2177 57th Lane",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11824,12 +11824,12 @@
     },
     "properties": {
     "licenseeName":"BOONE FARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00467",
     "streetAddress":"60710 Highway 96E",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11841,12 +11841,12 @@
     },
     "properties": {
     "licenseeName":"CURE PUEBLO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00436",
     "streetAddress":"63490 East Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11858,12 +11858,12 @@
     },
     "properties": {
     "licenseeName":"LANTZ INDUSTRIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00473",
     "streetAddress":"50100 Route 96, Suite A",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11880,7 +11880,7 @@
     "streetAddress":"63496 East Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11892,12 +11892,12 @@
     },
     "properties": {
     "licenseeName":"PUEBLO FARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00461",
     "streetAddress":"68200 East Highway 96",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11909,12 +11909,12 @@
     },
     "properties": {
     "licenseeName":"STEALTHFARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00572",
     "streetAddress":"58764 East Highway 50",
     "city":"Boone",
     "zip":81025,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11926,12 +11926,12 @@
     },
     "properties": {
     "licenseeName":"BEULAH VALLEY FARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00476",
     "streetAddress":"7791 Highway 78 West",
     "city":"Beulah",
     "zip":81023,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11943,12 +11943,12 @@
     },
     "properties": {
     "licenseeName":"WHITE MEADOWS CULTIVATION, LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00563",
     "streetAddress":"7013 Burnt Mill Road",
     "city":"Beulah",
     "zip":81023,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11960,12 +11960,12 @@
     },
     "properties": {
     "licenseeName":"SUNCANNA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00549",
     "streetAddress":"39327 Harbour Road",
     "city":"Avondale",
     "zip":81022,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11982,7 +11982,7 @@
     "streetAddress":"7445 Rex Road",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -11994,12 +11994,12 @@
     },
     "properties": {
     "licenseeName":"AMERIJUANA INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00517",
     "streetAddress":"72 North Lazer Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12016,7 +12016,7 @@
     "streetAddress":"24C North Research Drive",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12033,7 +12033,7 @@
     "streetAddress":"748 East Industrial Boulevard",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12050,7 +12050,7 @@
     "streetAddress":"69 North Mission Drive",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12062,12 +12062,12 @@
     },
     "properties": {
     "licenseeName":"NATURES GIFT SHOP LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00336",
     "streetAddress":"148 E Assembly Dr",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12079,12 +12079,12 @@
     },
     "properties": {
     "licenseeName":"PALO VERDE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00360",
     "streetAddress":"78 N Silicon Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12096,12 +12096,12 @@
     },
     "properties": {
     "licenseeName":"PI ORGANICS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00531",
     "streetAddress":"77 North Laser Drive, Suites I-1&2",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12118,7 +12118,7 @@
     "streetAddress":"56 N Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12135,7 +12135,7 @@
     "streetAddress":"609 East Enterprise Drive, Suite 120, 130",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12152,7 +12152,7 @@
     "streetAddress":"24 North Fabrication",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12169,7 +12169,7 @@
     "streetAddress":"59 North Fabrication Drive, Suite A",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12186,7 +12186,7 @@
     "streetAddress":"77 North Magento Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12203,7 +12203,7 @@
     "streetAddress":"59 North Laser Drive",
     "city":"Pueblo",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12220,7 +12220,7 @@
     "streetAddress":"96 North Precision Drive",
     "city":"Pueblo West",
     "zip":81007,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12232,12 +12232,12 @@
     },
     "properties": {
     "licenseeName":"HEAVYBAG SUPPLY COMPANY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00352",
     "streetAddress":"521 SANTA FE DRIVE",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12249,12 +12249,12 @@
     },
     "properties": {
     "licenseeName":"LOS SUENOS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00428",
     "streetAddress":"231 Nyberg Road",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12266,12 +12266,12 @@
     },
     "properties": {
     "licenseeName":"PUEBLO AGRICULTURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00524",
     "streetAddress":"386 South 29th Lane",
     "city":"Pueblo",
     "zip":81006,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12288,7 +12288,7 @@
     "streetAddress":"1115 Siloam Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12305,7 +12305,7 @@
     "streetAddress":"1930 Pope Valley Ranch Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12322,7 +12322,7 @@
     "streetAddress":"8217 Red Creek Springs Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12339,7 +12339,7 @@
     "streetAddress":"5 Rex Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12356,7 +12356,7 @@
     "streetAddress":"7420 Rex Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12368,12 +12368,12 @@
     },
     "properties": {
     "licenseeName":"HIGH ALTITUDE FARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00504",
     "streetAddress":"1035 Newton Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12385,12 +12385,12 @@
     },
     "properties": {
     "licenseeName":"KINGPIN FARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00539",
     "streetAddress":"6427 Galbreth Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12402,12 +12402,12 @@
     },
     "properties": {
     "licenseeName":"MISFITS PHARMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00587",
     "streetAddress":"2405 Little Burnt Mill Road",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12424,7 +12424,7 @@
     "streetAddress":"5810 W State Highway 78",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12436,12 +12436,12 @@
     },
     "properties": {
     "licenseeName":"STEEL CITY SUPPLY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00529",
     "streetAddress":"7571 Vanessa Drive",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12453,12 +12453,12 @@
     },
     "properties": {
     "licenseeName":"SUNSTRAIN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00605",
     "streetAddress":"8380 West Highway 96",
     "city":"Pueblo",
     "zip":81005,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12470,12 +12470,12 @@
     },
     "properties": {
     "licenseeName":"4th DIMENSION INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00534",
     "streetAddress":"3144 Verde Road",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12492,7 +12492,7 @@
     "streetAddress":"3217 Lake Ave",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12504,12 +12504,12 @@
     },
     "properties": {
     "licenseeName":"EXTREME GREEN GENETICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00375",
     "streetAddress":"3150 Verde Road",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12526,7 +12526,7 @@
     "streetAddress":"705 Elm Street",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12538,12 +12538,12 @@
     },
     "properties": {
     "licenseeName":"NATIONAL GREEN SOURCE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00447",
     "streetAddress":"1900 South Freeway",
     "city":"Pueblo",
     "zip":81004,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12555,12 +12555,12 @@
     },
     "properties": {
     "licenseeName":"GROWHOUSE PUEBLO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00511",
     "streetAddress":"1325 Cheyenne Avenue",
     "city":"Pueblo",
     "zip":81003,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12577,7 +12577,7 @@
     "streetAddress":"4245 West 13th Street",
     "city":"Pueblo",
     "zip":81003,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12589,12 +12589,12 @@
     },
     "properties": {
     "licenseeName":"THE HERBAL GARDEN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00370",
     "streetAddress":"302 Lamkin Street",
     "city":"Pueblo",
     "zip":81003,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12611,7 +12611,7 @@
     "streetAddress":"311 South Main Street",
     "city":"Pueblo",
     "zip":81003,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12623,12 +12623,12 @@
     },
     "properties": {
     "licenseeName":"GREEN MOUNTAIN DISTRIBUTION LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00422",
     "streetAddress":"302 Meade Avenue",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12645,7 +12645,7 @@
     "streetAddress":"2298 East State Hwy 96",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12657,12 +12657,12 @@
     },
     "properties": {
     "licenseeName":"MAGGIES FARM LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00290",
     "streetAddress":"3900 North 27th Lane",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12674,12 +12674,12 @@
     },
     "properties": {
     "licenseeName":"MARISOL THERAPEUTICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00079",
     "streetAddress":"2204 Hickory Lane",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12691,12 +12691,12 @@
     },
     "properties": {
     "licenseeName":"PURE INDUSTRIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00409",
     "streetAddress":"1601 N. Erie Avenue",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12713,7 +12713,7 @@
     "streetAddress":"2656 McCormick Avenue",
     "city":"Pueblo",
     "zip":81001,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12725,12 +12725,12 @@
     },
     "properties": {
     "licenseeName":"TOTANKA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00377",
     "streetAddress":"8768 County Road 90",
     "city":"Lake George",
     "zip":80827,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12742,12 +12742,12 @@
     },
     "properties": {
     "licenseeName":"LARSEN GROUP II LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00580",
     "streetAddress":"206 Elm Drive",
     "city":"Log Lane Village",
     "zip":80705,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12759,12 +12759,12 @@
     },
     "properties": {
     "licenseeName":"NATURES HERBS & WELLNESS CENTER",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00066",
     "streetAddress":"540 27th Street",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12776,12 +12776,12 @@
     },
     "properties": {
     "licenseeName":"XG PLATINUM CORPORATION",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00160",
     "streetAddress":"2506 6th Avenue",
     "city":"Garden City",
     "zip":80631,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12798,7 +12798,7 @@
     "streetAddress":"1040 5th Avenue",
     "city":"Lyons",
     "zip":80540,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12815,7 +12815,7 @@
     "streetAddress":"301 Smokey Street, Unit B",
     "city":"Fort Collins",
     "zip":80525,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12827,12 +12827,12 @@
     },
     "properties": {
     "licenseeName":"CHOICE ORGANICS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00038",
     "streetAddress":"813 Smithfield Drive, Units C & D",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12844,12 +12844,12 @@
     },
     "properties": {
     "licenseeName":"FLOWER POWER BOTANICALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00199",
     "streetAddress":"1308 -1310 Duff Drive",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12866,7 +12866,7 @@
     "streetAddress":"120 Hemlock Street, Suite 110",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12883,7 +12883,7 @@
     "streetAddress":"1420 Blue Spruce Lane, Unit H",
     "city":"Fort Collins",
     "zip":80524,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12900,7 +12900,7 @@
     "streetAddress":"900 North College Avenue",
     "city":"Fort Collins",
     "zip":80521,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12917,7 +12917,7 @@
     "streetAddress":"2052 Snow Bowl Plaza",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12934,7 +12934,7 @@
     "streetAddress":"1707 Copper Ridge Spur",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12951,7 +12951,7 @@
     "streetAddress":"2005 13th Street, Lower Unit D",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12968,7 +12968,7 @@
     "streetAddress":"2750 Downhill Plaza, #204",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -12985,7 +12985,7 @@
     "streetAddress":"2750 Downhill Plaza, #206",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13002,7 +13002,7 @@
     "streetAddress":"2835 Downhill Plaza, #601",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13019,7 +13019,7 @@
     "streetAddress":"2835 Downhill Plaza, Unit 605",
     "city":"Steamboat Springs",
     "zip":80487,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13031,12 +13031,12 @@
     },
     "properties": {
     "licenseeName":"ANTS ORGANIC LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00485",
     "streetAddress":"231 Arthur Avenue",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13048,12 +13048,12 @@
     },
     "properties": {
     "licenseeName":"CRESTED BUTTE WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00302",
     "streetAddress":"240 Arthur Avenue",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13065,12 +13065,12 @@
     },
     "properties": {
     "licenseeName":"PARK RANGE RECREATIONALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00325",
     "streetAddress":"100 West Main Street, # B",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13087,7 +13087,7 @@
     "streetAddress":"224 Arthur Avenue",
     "city":"Oak Creek",
     "zip":80467,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13104,7 +13104,7 @@
     "streetAddress":"211 Highway 119",
     "city":"Nederland",
     "zip":80466,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13116,12 +13116,12 @@
     },
     "properties": {
     "licenseeName":"THE FLOWER COLLECTIVE LTD",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00361",
     "streetAddress":"91 Big Springs Drive",
     "city":"Nederland",
     "zip":80466,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13133,12 +13133,12 @@
     },
     "properties": {
     "licenseeName":"ELEVATED QUALITY WHOLESALE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00562",
     "streetAddress":"210 East 10th Street",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13155,7 +13155,7 @@
     "streetAddress":"1900 County Road 8",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13172,7 +13172,7 @@
     "streetAddress":"1940 County Road 8, Unit A",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13184,12 +13184,12 @@
     },
     "properties": {
     "licenseeName":"RFSCLVG LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00407",
     "streetAddress":"145 Front Street",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13206,7 +13206,7 @@
     "streetAddress":"11976 Highway 24 South",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13218,12 +13218,12 @@
     },
     "properties": {
     "licenseeName":"TWO DOG PRODUCTS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00341",
     "streetAddress":"615 South Highway 24, Unit D",
     "city":"Leadville",
     "zip":80461,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13240,7 +13240,7 @@
     "streetAddress":"15 Colorado Boulevard, Unit B",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13257,7 +13257,7 @@
     "streetAddress":"8620 Colorado Hwy 103",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13274,7 +13274,7 @@
     "streetAddress":"1800 Colorado Boulevard, #1",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13291,7 +13291,7 @@
     "streetAddress":"2237 E Idaho Springs Blvd",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13303,12 +13303,12 @@
     },
     "properties": {
     "licenseeName":"THE KINE MINE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00151",
     "streetAddress":"2058 E Idaho Springs",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13320,12 +13320,12 @@
     },
     "properties": {
     "licenseeName":"THE KINE MINE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00256",
     "streetAddress":"2820 Colorado Boulevard",
     "city":"Idaho Springs",
     "zip":80452,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13342,7 +13342,7 @@
     "streetAddress":"24040 Highway 9",
     "city":"Hartsel",
     "zip":80449,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13354,12 +13354,12 @@
     },
     "properties": {
     "licenseeName":"HOTLEAF LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00567",
     "streetAddress":"30390 Colorado State Highway 9",
     "city":"Hartsel",
     "zip":80449,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13376,7 +13376,7 @@
     "streetAddress":"100 West Highway 24",
     "city":"Hartsel",
     "zip":80449,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13393,7 +13393,7 @@
     "streetAddress":"1121 Dillon Dam Road",
     "city":"Frisco",
     "zip":80443,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13405,12 +13405,12 @@
     },
     "properties": {
     "licenseeName":"DUTCH CALIBER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00521",
     "streetAddress":"136 Kokanee Road",
     "city":"Fairplay",
     "zip":80440,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13422,12 +13422,12 @@
     },
     "properties": {
     "licenseeName":"HOLISTICAL LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00390",
     "streetAddress":"375 Kokanee Road",
     "city":"Fairplay",
     "zip":80440,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13439,12 +13439,12 @@
     },
     "properties": {
     "licenseeName":"HCH3 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00236",
     "streetAddress":"1221 County Road 308 B",
     "city":"Dumont",
     "zip":80436,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13461,7 +13461,7 @@
     "streetAddress":"811 County Road 308",
     "city":"Downieville",
     "zip":80436,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13478,7 +13478,7 @@
     "streetAddress":"1181 County Road 308",
     "city":"Dumont",
     "zip":80436,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13495,7 +13495,7 @@
     "streetAddress":"400 Indian Lane",
     "city":"Como",
     "zip":80432,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13507,12 +13507,12 @@
     },
     "properties": {
     "licenseeName":"ORGANIX LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00083",
     "streetAddress":"1795 Airport Road, A2",
     "city":"Breckenridge",
     "zip":80424,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13529,7 +13529,7 @@
     "streetAddress":"1860 Copper Spur Road",
     "city":"Bond",
     "zip":80423,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13546,7 +13546,7 @@
     "streetAddress":"5312 Hwy 119",
     "city":"Black Hawk",
     "zip":80422,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13558,12 +13558,12 @@
     },
     "properties": {
     "licenseeName":"ALTERNATIVE MEDICAL SUPPLIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00189",
     "streetAddress":"9 Karlann Drive",
     "city":"Black Hawk",
     "zip":80422,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13575,12 +13575,12 @@
     },
     "properties": {
     "licenseeName":"CANNA CABANA LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00522",
     "streetAddress":"66803 US Highway 285",
     "city":"Bailey",
     "zip":80421,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13597,7 +13597,7 @@
     "streetAddress":"80 Rosalie Rd",
     "city":"Bailey",
     "zip":80421,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13614,7 +13614,7 @@
     "streetAddress":"62160 Highway 285",
     "city":"Bailey",
     "zip":80421,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13626,12 +13626,12 @@
     },
     "properties": {
     "licenseeName":"HCH2 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00117",
     "streetAddress":"40 South Main Street",
     "city":"Alma",
     "zip":80420,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13648,7 +13648,7 @@
     "streetAddress":"4727 North Broadway, Unit 1",
     "city":"Boulder",
     "zip":80304,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13660,12 +13660,12 @@
     },
     "properties": {
     "licenseeName":"HEADQUARTERS EMPORIUM AND DISPENSARY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00445",
     "streetAddress":"1501 Lee Hill Drive #9",
     "city":"Boulder",
     "zip":80304,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13677,12 +13677,12 @@
     },
     "properties": {
     "licenseeName":"ITF INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00329",
     "streetAddress":"4891 North Broadway, Units 1&2",
     "city":"Boulder",
     "zip":80304,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13694,12 +13694,12 @@
     },
     "properties": {
     "licenseeName":"AJO HOLDINGS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00416",
     "streetAddress":"5757 Arapahoe Avenue, Unit C2",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13711,12 +13711,12 @@
     },
     "properties": {
     "licenseeName":"BORIS DYNOWSKI LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00493",
     "streetAddress":"6185 Arapahoe Road, Unit C",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13733,7 +13733,7 @@
     "streetAddress":"5575 Arapahoe Avenue, Suite C",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13750,7 +13750,7 @@
     "streetAddress":"5595 Arapahoe Avenue, Unit C, D, E",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13767,7 +13767,7 @@
     "streetAddress":"5735 Arapahoe Avenue, Unit A",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13784,7 +13784,7 @@
     "streetAddress":"5735 Arapahoe Avenue, Unit B-1",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13801,7 +13801,7 @@
     "streetAddress":"1900 55th Street, Unit A-101",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13818,7 +13818,7 @@
     "streetAddress":"1880 South Flatirons Court, Units C&D",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13835,7 +13835,7 @@
     "streetAddress":"1900 55th Street, Unit B",
     "city":"Boulder",
     "zip":80303,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13847,12 +13847,12 @@
     },
     "properties": {
     "licenseeName":"CADISA ENTERPRISES",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00577",
     "streetAddress":"6859 North Foothills Highway, Building C, Unit 600",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13864,12 +13864,12 @@
     },
     "properties": {
     "licenseeName":"KARING KIND LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00232",
     "streetAddress":"5854 Rawhide Court, Suite C",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13881,12 +13881,12 @@
     },
     "properties": {
     "licenseeName":"KIND ENTERPRISES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00581",
     "streetAddress":"6859 North Foothills Highway, Bldg C, C-100, C-200, C-300",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13903,7 +13903,7 @@
     "streetAddress":"6859 North Foothills Highway, Building G",
     "city":"Boulder",
     "zip":80302,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13920,7 +13920,7 @@
     "streetAddress":"2510 North 47th Street, Unit E",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13937,7 +13937,7 @@
     "streetAddress":"5595 Arapahoe Street, Suite F",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13954,7 +13954,7 @@
     "streetAddress":"3554 Pearl Street, Unit G",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13971,7 +13971,7 @@
     "streetAddress":"1880 South Flatiron Court, Unit E",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -13983,12 +13983,12 @@
     },
     "properties": {
     "licenseeName":"BOULDER WELLNESS CENTER LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00478",
     "streetAddress":"2200 Central Avenue, Suite A-1",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14000,12 +14000,12 @@
     },
     "properties": {
     "licenseeName":"BRECKENRIDGE ORGANIC THERAPY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00237",
     "streetAddress":"1800 Commerce Street, Unit North A",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14022,7 +14022,7 @@
     "streetAddress":"4734 Pearl Street",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14034,12 +14034,12 @@
     },
     "properties": {
     "licenseeName":"DALTON ADVENTURES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00501",
     "streetAddress":"3705 North 75th Street",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14056,7 +14056,7 @@
     "streetAddress":"2480 49th Street, Unit H",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14073,7 +14073,7 @@
     "streetAddress":"7161 Valtec Court, Unit D&E",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14090,7 +14090,7 @@
     "streetAddress":"7084 Winchester Circle",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14102,12 +14102,12 @@
     },
     "properties": {
     "licenseeName":"PURE INDUSTRIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00265",
     "streetAddress":"2500 47th Street, Unit 2",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14124,7 +14124,7 @@
     "streetAddress":"3065 West Sterling Circle, Unit C",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14141,7 +14141,7 @@
     "streetAddress":"3095 West Sterling Circle, Unit 3",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14158,7 +14158,7 @@
     "streetAddress":"4725 South Nautilus Court, Suite 3",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14175,7 +14175,7 @@
     "streetAddress":"5441 Western Avenue, Suite 2",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14192,7 +14192,7 @@
     "streetAddress":"1840 Commerce Street, Units A-B",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14204,12 +14204,12 @@
     },
     "properties": {
     "licenseeName":"TENDERFOOT HEALTH COLLECTIVE",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00423",
     "streetAddress":"2510 47th Street, Suite GG",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14226,7 +14226,7 @@
     "streetAddress":"6880 Winchester Circle, Suite C",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14243,7 +14243,7 @@
     "streetAddress":"6420 Gunpark Drive, Unit C",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14260,7 +14260,7 @@
     "streetAddress":"2480 49th Street, Suite F2",
     "city":"Boulder",
     "zip":80301,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14272,12 +14272,12 @@
     },
     "properties": {
     "licenseeName":"ORGANIX LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00081",
     "streetAddress":"585 South Jason Street",
     "city":"Denver",
     "zip":80247,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14294,7 +14294,7 @@
     "streetAddress":"4600 Ironton Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14306,12 +14306,12 @@
     },
     "properties": {
     "licenseeName":"CARRICK-HARVEST LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00063",
     "streetAddress":"4705 Oakland St, Unit A",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14328,7 +14328,7 @@
     "streetAddress":"5475 Peoria Street, Building 1, Units 101,102,103",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14345,7 +14345,7 @@
     "streetAddress":"11155 East 51st Avenue",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14362,7 +14362,7 @@
     "streetAddress":"4600 North Ironton Street #103",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14379,7 +14379,7 @@
     "streetAddress":"4750-4760 Nome Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14396,7 +14396,7 @@
     "streetAddress":"5300 Joliet Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14413,7 +14413,7 @@
     "streetAddress":"4695 Kingston Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14430,7 +14430,7 @@
     "streetAddress":"4700 Kingston Street",
     "city":"Denver",
     "zip":80239,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14447,7 +14447,7 @@
     "streetAddress":"1131, 1133 and 1135 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14459,12 +14459,12 @@
     },
     "properties": {
     "licenseeName":"ANIMAS HERBAL WELLNESS CENTER INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00550",
     "streetAddress":"1115 South Bannock Street, Unit B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14481,7 +14481,7 @@
     "streetAddress":"577 South Jason",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14498,7 +14498,7 @@
     "streetAddress":"1270 West Cedar Avenue, Suite A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14515,7 +14515,7 @@
     "streetAddress":"2490 West 2nd Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14532,7 +14532,7 @@
     "streetAddress":"124 Yuma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14549,7 +14549,7 @@
     "streetAddress":"1870 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14566,7 +14566,7 @@
     "streetAddress":"735 West Bayaud Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14578,12 +14578,12 @@
     },
     "properties": {
     "licenseeName":"GMC LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00201",
     "streetAddress":"2175 South Platte River Drive",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14595,12 +14595,12 @@
     },
     "properties": {
     "licenseeName":"HIGH COUNTRY SUPPLY LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00097",
     "streetAddress":"2335 S Platte River Drive",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14617,7 +14617,7 @@
     "streetAddress":"1325 South Inca Street, Suite A",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14634,7 +14634,7 @@
     "streetAddress":"130 Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14651,7 +14651,7 @@
     "streetAddress":"380 Quivas Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14663,12 +14663,12 @@
     },
     "properties": {
     "licenseeName":"LOTUS MEDICAL II LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00575",
     "streetAddress":"2257 South Kalamath Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14685,7 +14685,7 @@
     "streetAddress":"1325 South Inca Street, Suite B",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14702,7 +14702,7 @@
     "streetAddress":"1285 West Byers Place, Unit B (aka 1275 W. Byers Place)",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14719,7 +14719,7 @@
     "streetAddress":"400 South Lipan Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14736,7 +14736,7 @@
     "streetAddress":"1110 West Virginia Avenue",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14753,7 +14753,7 @@
     "streetAddress":"1828 South Bannock Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14770,7 +14770,7 @@
     "streetAddress":"2211 South Jason Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14787,7 +14787,7 @@
     "streetAddress":"110 Yuma Street, #4",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14804,7 +14804,7 @@
     "streetAddress":"1865 South Acoma Street",
     "city":"Denver",
     "zip":80223,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14821,7 +14821,7 @@
     "streetAddress":"2675 South Santa Fe Drive, Unit 6E, 6F, 6G",
     "city":"Denver",
     "zip":80222,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14838,7 +14838,7 @@
     "streetAddress":"4305 Brighton Boulevard",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14855,7 +14855,7 @@
     "streetAddress":"2424 East 43rd Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14867,12 +14867,12 @@
     },
     "properties": {
     "licenseeName":"ALTA PRAIRIE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00058",
     "streetAddress":"4611 East 46th Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14889,7 +14889,7 @@
     "streetAddress":"4571 Ivy Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14906,7 +14906,7 @@
     "streetAddress":"4228 North York Street, #102, 103, 105",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14923,7 +14923,7 @@
     "streetAddress":"4668 Glencoe Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14935,12 +14935,12 @@
     },
     "properties": {
     "licenseeName":"CAREGIVERS FOR LIFE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00109",
     "streetAddress":"4900 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14957,7 +14957,7 @@
     "streetAddress":"4690 Brighton Boulevard",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14969,12 +14969,12 @@
     },
     "properties": {
     "licenseeName":"COMPASSIONATE CARE GIVERS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00085",
     "streetAddress":"4228 York Street, Unit 104",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -14986,12 +14986,12 @@
     },
     "properties": {
     "licenseeName":"COMPASSIONATE CARE GIVERS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00086",
     "streetAddress":"4237 Josephine Street, Units 102-103",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15003,12 +15003,12 @@
     },
     "properties": {
     "licenseeName":"COMPASSIONATE CARE GIVERS INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00088",
     "streetAddress":"6666 East Stapleton Drive South",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15025,7 +15025,7 @@
     "streetAddress":"4960 Jackson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15037,12 +15037,12 @@
     },
     "properties": {
     "licenseeName":"GREENWERKZ LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00120",
     "streetAddress":"3615 Delgany Street Unit A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15059,7 +15059,7 @@
     "streetAddress":"4394 Grape Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15071,12 +15071,12 @@
     },
     "properties": {
     "licenseeName":"LYONS LAKE CORP",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00055",
     "streetAddress":"4209 Delaware Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15093,7 +15093,7 @@
     "streetAddress":"4125 Elati Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15110,7 +15110,7 @@
     "streetAddress":"4715 Colorado Blvd.",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15122,12 +15122,12 @@
     },
     "properties": {
     "licenseeName":"MOUNTAIN GIRL LPT INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00520",
     "streetAddress":"794 East 51st Avenue",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15139,12 +15139,12 @@
     },
     "properties": {
     "licenseeName":"NATURES CURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00135",
     "streetAddress":"4425 East 46th Avenue, Room 2, Suite A",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15161,7 +15161,7 @@
     "streetAddress":"835 E 50th Ave, Suite A-B",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15178,7 +15178,7 @@
     "streetAddress":"5140 North Clarkson Street",
     "city":"Denver",
     "zip":80216,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15195,7 +15195,7 @@
     "streetAddress":"10030 West 27th Avenue",
     "city":"Wheat Ridge",
     "zip":80215,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15207,12 +15207,12 @@
     },
     "properties": {
     "licenseeName":"JPJR AND ASSOCIATES",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00092",
     "streetAddress":"4590 Jason Street",
     "city":"Denver",
     "zip":80211,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15229,7 +15229,7 @@
     "streetAddress":"3880 Holly Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15246,7 +15246,7 @@
     "streetAddress":"3835 Elm Street, Unit B & C",
     "city":"Denver",
     "zip":80207,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15258,12 +15258,12 @@
     },
     "properties": {
     "licenseeName":"WALKING RAVEN LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00072",
     "streetAddress":"3936 Niagara Street",
     "city":"Denver",
     "zip":80207,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15280,7 +15280,7 @@
     "streetAddress":"4228 York Street, #101",
     "city":"Denver",
     "zip":80205,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15297,7 +15297,7 @@
     "streetAddress":"3887 Steele Street, Unit 102",
     "city":"Denver",
     "zip":80205,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15314,7 +15314,7 @@
     "streetAddress":"3814 Walnut",
     "city":"Denver",
     "zip":80205,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15331,7 +15331,7 @@
     "streetAddress":"750 Canosa Court",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15348,7 +15348,7 @@
     "streetAddress":"680 Lipan Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15360,12 +15360,12 @@
     },
     "properties": {
     "licenseeName":"GREEN CROSS COLORADO LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00112",
     "streetAddress":"660 Bryant Street, Unit 102",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15382,7 +15382,7 @@
     "streetAddress":"670 Bryant Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15399,7 +15399,7 @@
     "streetAddress":"900 Vallejo Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15416,7 +15416,7 @@
     "streetAddress":"695 Bryant Street",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15433,7 +15433,7 @@
     "streetAddress":"875 Navajo Street, Parcel B",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15445,12 +15445,12 @@
     },
     "properties": {
     "licenseeName":"WESTERN REMEDIES LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00005",
     "streetAddress":"777 Canosa Court, Suite 102",
     "city":"Denver",
     "zip":80204,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15467,7 +15467,7 @@
     "streetAddress":"221 North Wyandot Street",
     "city":"Denver",
     "zip":80203,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15479,12 +15479,12 @@
     },
     "properties": {
     "licenseeName":"SMMS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00566",
     "streetAddress":"6995 Imboden Road",
     "city":"Watkins",
     "zip":80137,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15496,12 +15496,12 @@
     },
     "properties": {
     "licenseeName":"PREMIER ORGANICS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00513",
     "streetAddress":"850 A&B Commerical Lane",
     "city":"Palmer Lake",
     "zip":80133,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15518,7 +15518,7 @@
     "streetAddress":"4800 Lamar Street",
     "city":"Wheat Ridge",
     "zip":80033,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15535,7 +15535,7 @@
     "streetAddress":"4845 Van Gordon S",
     "city":"Wheat Ridge",
     "zip":80033,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15547,12 +15547,12 @@
     },
     "properties": {
     "licenseeName":"HERBAL WELLNESS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00282",
     "streetAddress":"1224 Commerce Court, Units 4 & 5",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15569,7 +15569,7 @@
     "streetAddress":"1700 South 120th Street, #B1",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15586,7 +15586,7 @@
     "streetAddress":"1265 Rock Creek Circle, Suite A",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15603,7 +15603,7 @@
     "streetAddress":"1265 Rock Creek Circle, Suite B",
     "city":"Lafayette",
     "zip":80026,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15620,7 +15620,7 @@
     "streetAddress":"482 Laredo Street, Unit P-T",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15637,7 +15637,7 @@
     "streetAddress":"472 Laredo Street, Unit L",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15654,7 +15654,7 @@
     "streetAddress":"482 Laredo Street, Unit A-M and O",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15671,7 +15671,7 @@
     "streetAddress":"472 Laredo Street, A-J & P-S",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15683,12 +15683,12 @@
     },
     "properties": {
     "licenseeName":"JOSEPH ARTHUR BOTANICALS LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00358",
     "streetAddress":"714 N. Ventura Street, Bldg1 Ste B&C, Bldg 2 Ste B&C",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15700,12 +15700,12 @@
     },
     "properties": {
     "licenseeName":"PEAK 5280 LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00477",
     "streetAddress":"13800 East Moncrieff Place",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15717,12 +15717,12 @@
     },
     "properties": {
     "licenseeName":"REVERED INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00480",
     "streetAddress":"3590 Revere Street",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15734,12 +15734,12 @@
     },
     "properties": {
     "licenseeName":"SAN TOURE LLC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00389",
     "streetAddress":"765 N Telluride St, Unit B15",
     "city":"Aurora",
     "zip":80011,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   },
@@ -15751,12 +15751,12 @@
     },
     "properties": {
     "licenseeName":"PI STRATEGIES INC",
-    "dba":"",
+    "dba":"N/A",
     "licenseNo":"403R-00350",
     "streetAddress":"11900 E 33rd Avenue, Suite 2",
     "city":"Aurora",
     "zip":80010,
-    "operation":"Retail",
+    "operation":"RETAIL",
     "marker-color":"#1768c1"
     }
   }

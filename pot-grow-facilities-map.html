@@ -71,8 +71,11 @@
             <form id='optype'>
             <div id="legend-container">
                 <div class="legend" id="">
+                <label>
+                        <input type='radio' name='filters' onclick='showOperation();' { value='Medical', value='Retail', value='Both' } checked> All
+                    </label>
                     <label>
-                        <input type='radio' name='filters' onclick='showOperation();' value='Medical' checked> Medical
+                        <input type='radio' name='filters' onclick='showOperation();' value='Medical' > Medical
                     </label>
                 </div>
                 <div class="legend" id="">
